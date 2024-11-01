@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="Infogent">
+  <meta name="keywords" content="LLM, Multimodal, Vector Graphics">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Infogent</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/favicon.svg">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var toggles = document.querySelectorAll('.toggle-section');
+      toggles.forEach(function(toggle) {
+        toggle.addEventListener('click', function() {
+          var content = document.getElementById(toggle.getAttribute('aria-controls'));
+          content.classList.toggle('is-active');
+          toggle.children[1].classList.toggle('fa-angle-down');
+          toggle.children[1].classList.toggle('fa-angle-up');
+        });
+      });
+    });
+  </script>
+
+  <style>
+    .collapse-content {
+      display: none;
+      margin-top: 10px;
+    }
+    .collapse-content.is-active {
+      display: block;
+    }
+    .toggle-section .icon.is-small {
+      transition: transform 0.3s ease;
+    }
+    .toggle-section .fa-angle-up {
+      transform: rotate(180deg);
+    }
+  </style>
+
+</head>
+<body>
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">
+            <!-- <img src="static/images/favicon_vdlm.png" alt="Icon" style="vertical-align: middle; height: 50px; margin-right: 10px; margin-bottom: 9px"> -->
+            INFOGENT: An Agent-Based Framework for Web Information Aggregation </h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://gangiswag.github.io">Revanth Gangi Reddy</a>*,</span>
+            <span class="author-block">
+              <a href="https://sagnikmukherjee.github.io">Sagnik Mukherjee</a>*,</span>
+            <span class="author-block">
+              <a href="https://wjdghks950.github.io">Jeonghwan Kim</a>*,</span>
+            <span class="author-block">
+              <a href="https://mikewangwzhl.github.io/">Zhenhailong Wang</a>*,</span> <br>
+            <span class="author-block">
+              <a href="https://siebelschool.illinois.edu/about/people/all-faculty/dilek">Dilek Hakkani-Tur</a>,</span>
+            <span class="author-block">
+              <a href="https://blender.cs.illinois.edu/hengji.html">Heng Ji</a>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">University of Illinois Urbana-Champaign</span>
+          </div>
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <!-- <span class="link-block">
+                <a href=""
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span> -->
+              <span class="link-block">
+                <a href="https://www.arxiv.org/pdf/2410.19054"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/gangiswag/infogent"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                </a>
+              </span>
+              <!-- Demo link. -->
+              <span class="link-block">
+                <a href="https://notebooklm.google.com/notebook/720d2f64-fdd2-47e2-a086-7870b8db23e5/audio"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <p style="font-size:18px">&#127911;</p>
+                  </span>
+                  <span>NotebookLM Audio</span>
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Teaser Video -->
+<!-- <section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <video id="teaser" autoplay muted controls playsinline loop height="100%">
+        <source src="./static/videos/vdlm_teaser_vid.mp4"
+                type="video/mp4">
+      </video>
+    </div>
+  </div>
+</section> -->
+
+
+<!-- Abstract -->
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Despite seemingly performant web agents on the task-completion benchmarks, most existing methods evaluate the agents based on a presupposition: the web navigation task consists of linear sequence of actions with an end state that marks task completion. In contrast, our work focuses on web navigation for information aggregation, wherein the agent must explore different websites to gather information for a complex query. We consider web information aggregation from two different perspectives: (i) Direct API-driven Access relies on a text-only view of the Web, leveraging external tools such as Google Search API to navigate the web and a scraper to extract website contents. (ii) Interactive Visual Access uses screenshots of the webpages and requires interaction with the browser to navigate and access information. Motivated by these diverse information access settings, we introduce INFOGENT, a novel modular framework for web information aggregation involving three distinct components: Navigator, Extractor and Aggregator. Experiments on different information access settings demonstrate INFOGENT beats an existing SOTA multi-agent search framework by 7% under Direct API-Driven Access on FRAMES, and improves over an existing information-seeking web agent by 4.3% under Interactive Visual Access on AssistantBench.
+          </p>
+        </div>
+        <figure>
+          <img src="static/images/infogent_teaser.png" alt="Infogent overview." class="infogent_teaser" style="width: 80%;"/>
+          <figcaption class="has-text-centered">
+            <b>Figure 1:</b> Overview of INFOGENT under the Direct API Access and Interactive Visual Access settings: The Navigator uses a tool-based LLM and a browser-controlling VLM as the web agent respectively, with the Aggregator's textual feedback guiding further navigation.
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full-width">
+        <h2 class="title is-3">Method</h2>
+          <!-- <video id="method" muted controls playsinline loop height="100%">
+            <source src="./static/videos/vdlm_method_vid_maze.mp4"
+                    type="video/mp4">
+          </video> -->
+          <!-- <h2 class="subtitle has-text-centered">
+            VDLM-txt zero-shot inference example on 2×2 Maze Solving task with text-only LLM reasoner.
+          </h2> -->
+        <!-- <br> -->
+        <!-- <br> -->
+        
+        <p>          
+          INFOGENT, consists of three core components: A Navigator NG, an Extractor ET , and an Aggregator AG. Given an information-seeking query, the Navigator NG initiates the process by searching the web for relevant sources. Upon identifying a suitable webpage, the Extractor ET takes over the control, which extracts relevant content and forwards it to the Aggregator AG. AG evaluates this content with respect to the information aggregated so far and decides whether to include it. Importantly, AG provides feedback to NG about gaps in the aggregated information, guiding subsequent searches to address deficiencies. NG lacks direct access to the aggregated information, thereby relies on AG's feedback for directions in subsequent iterations. This iterative process continues until AG determines that sufficient information has been gathered and instructs NG to halt.
+        </p>        
+        <br>
+        <figure>
+          <img src="static/images/infogent_figure_2.png" alt="Infogent example." class="infogent_example"/>
+          <figcaption class="has-text-centered">
+            <b>Figure 2:</b> A working example of INFOGENT. Navigator iteratively generates an updated query given feedback from Aggregator.
+          </figcaption>
+        </figure>
+        <br>
+        <p>
+          INFOGENT employs a modular, feedback-driven approach to information aggregation, making it suitable for complex queries requiring diverse sources. Fig. 2 illustrates the feedback-driven navigation with example. Algorithm 2.1 shows a schematic of INFOGENT's working process. The Navigator's action space varies with the information access setting (see Tables 2.1 and 2.2), either utilizing a search API (Direct API-Driven Access) or interacting with a real-world browser (Interactive Visual Access).
+        </p>
+        <br>
+        <figure style="text-align: center;">
+          <img src="static/images/Infogent_Schematic.png" alt="Infogent example." style="width: 80%;" class="infogent_example"/>
+          <!-- <figcaption class="has-text-centered">
+            <b>Figure 2:</b> A working example of INFOGENT. The Navigator (NG) iteratively generates an updated query given feedback from the Aggregator (AG).
+          </figcaption> -->
+        </figure>
+        <br>       
+        <h3 class="title is-4"> Direct API-Driven Access</h3>
+        <div class="content has-text-justified">
+          <p>
+            In this setting, web information is accessed via a search API that returns URLs, with content retrieved through automated scraping. The Navigator NG operates as an autonomous agent based on the <a href="https://arxiv.org/abs/2210.03629">ReACT</a> framework, combining chain-of-thought reasoning with tool usage. Its action space A comprises two tools: SEARCH and AGGREGATE (see Table 2.1). Given a user task, NG employs SEARCH with an appropriate query to obtain the relevant website URLs and selects one to invoke AGGREGATE. This action combines both the Extractor ET (scrapes the URL and extracts relevant content P) and the Aggregator AG (updates S using P, and returns textual feedback F). Based on F, NG either continues exploring additional websites from previous search results or revises its search query.
+          </p>
+        </div>
+        <br>
+        <h3 class="title is-4"> Interactive Visual Access</h3>
+        <div class="content has-text-justified">
+          <p>
+            When direct scraping is not feasible, NG  navigates the web through human-like browser interactions. Leveraging LMMs for web navigation, the Navigator is based on <a href="https://arxiv.org/abs/2401.01614">SeeAct</a>, a task-completion agent that uses screenshots and HTML elements to plan and execute actions. SeeAct generates natural language action descriptions and grounds them to relevant HTML elements and operations. We augment SeeAct with GO BACK and AGGREGATE actions (see Table 2.2) and modify the action generation to condition on feedback F from AG. Starting from a search engine homepage, NG uses actions like CLICK, TYPE, and PRESS ENTER to navigate. Upon finding relevant webpages, it invokes AGGREGATE to engage ET and AG. Based on feedback F, it may GO BACK to explore other options or initiate a new search with an updated query.
+          </p>
+        </div>
+        <!-- <h3 class="title is-4"> Information Aggregation Task</h3>
+        <div class="content has-text-justified">
+          <p>
+            a summary of the tasks
+          </p>
+        </div> -->
+        <!-- <h3 class="title is-4">Learning Alignment of SVG to Primal Visual Description with Language Models</h3> -->
+        <!-- <h3 class="title is-4">Infogent Core Components</h3>
+        <div class="content has-text-justified"> -->
+          <!-- <figure id="pvd_ontology_img">
+            <img src="static/images/pvd_ontology.png" alt="PVD ontology." class="pvd_ontology"/>
+            <figcaption><b>Figure 2:</b> Ontology of the PVD primitives.</figcaption>
+          </figure> -->
+          <!-- <p>
+            a summary of the core components...
+          </p> -->
+          <!-- <figure id="svg_to_pvd_model_img">
+            <img src="static/images/svg-to-pvd-model.png" alt="SVG-to-PVD model." class="svg_to_pvd_model"/>
+            <figcaption><b>Figure 3:</b> An example of the input and output of the SVG-to-PVD model.
+          </figure>
+          <p>
+            Since SVG is text-based, we can effectively learn a SVG-to-PVD model by fine-tuning a pretrained language model (<a href="https://huggingface.co/mistralai/Mistral-7B-v0.1">Mistral-7B-v0.1</a>). To obtain the training data, we develop a data generator leveraging <a href="https://pillow.readthedocs.io/en/stable/reference/ImageDraw.html">PIL.ImageDraw</a> and <a href="https://github.com/visioncortex/vtracer">VTracer</a>, which creates a large-scale ⟨SVG, PVD⟩ paired dataset without any human annotation. 
+            The <a href="https://huggingface.co/datasets/mikewang/PVD-160K">dataset</a> contains 160K instruction following instances on predicting PVD from SVG on randomly generated primitives. 
+            See <a href="#svg_to_pvd_model_img">Figure 3</a> above on an input/output example. 
+            
+            During inference, as shown in the <a href="#method">Maze Solving example video</a>, we first decompose the input image into single SVG paths and then individually feed them into the SVG-to-PVD model.
+          </p> -->
+        </div>
+
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full-width">
+        <h2 class="title is-3">Performance</h2>
+        <div class="content has-text-justified">
+          <p>
+            We test INFOGENT's ability to address complex queries that require accumulating information over multiple webpages. Evaluation is based on the final answer generated by the downstream LLM, leveraging the information aggregated by INFOGENT. We consider evaluation separately for Direct API-Driven access and Interactive Visual Access.
+          </p>
+        </div>       
+
+        <h3 class="title is-4">Direct API-Driven Access</h3>
+        <div class="content has-text-justified">
+          <div class="content has-text-justified">
+            <p>
+            
+            <strong>Datasets:</strong>  We evaluate on <a href="https://aclanthology.org/2024.acl-short.2/">FanOutQA</a> (dev split) and <a href="https://arxiv.org/abs/2409.12941">FRAMES</a>, both comprising complex queries requiring information from multiple webpages. FanOutQA contains multi-hop questions involving multiple entities (e.g., What is the population of the five smallest countries by GDP in Europe?), while FRAMES has questions necessitating tabular, constraint-based, temporal, and post-processing reasoning.
+            <br>
+            <br>
+            <strong>Baselines:</strong> We primarily compare with <a href="https://arxiv.org/abs/2407.20183">MindSearch</a>, a multi-agent search framework involving a planner and a searcher. MindSearch models information seeking as a dynamic graph construction process via code-driven decomposition of the user query into atomic sub-questions represented as nodes. It then iteratively builds the graph for the subsequent steps, based on answers to the sub-questions.
+            <br>
+            <figure style="text-align: center;">
+              <img src="static/images/direct_api_results.png" alt="Infogent example." style="width: 90%;" class="infogent_example"/>
+              <figcaption class="has-text-centered">
+                <b>Figure 3:</b> Results (in %) for INFOGENT under the Direct API-Driven Access setting.
+              </figcaption>
+            </figure>
+          </div>
+        <h3 class="title is-4">Interactive Visual Access</h3>    
+        <p>
+          <strong>Datasets:</strong> Our main evaluation is on <a href="https://arxiv.org/abs/2407.15711">AssistantBench</a>, a dataset of realistic, time-consuming online information-seeking tasks that require interaction with multiple websites, such as monitoring real estate markets or locating nearby businesses. To assess performance on information-dense websites (e.g., Wikipedia) under the interactive visual access setting, we employ a human-curated subset of FanOutQA, comprising queries with updated answers where closed-book models fail.
+          <br>
+          <br>
+          <strong>Baselines:</strong> We use RALM-Inst and RALM-1S are zero and one-shot versions of a retrieval-augmented LM that is prompted to use Google Search as a tool. For web-agent baselines, we consider <a href="https://arxiv.org/abs/2401.01614">SeeAct</a>, designed for web task-completion. Our primary comparison is with <a href="https://arxiv.org/abs/2407.15711">SPA (See-Plan-Act)</a>, which extends SeeAct for information-seeking tasks by incorporating planning and memory modules for information transfer between steps.
+          <br>
+          <figure style="text-align: center;">
+            <img src="static/images/interactive_visual_results.png" alt="Infogent example." style="width: 50%;" class="infogent_example"/>
+            <figcaption class="has-text-centered">
+              <b>Figure 3:</b> Accuracy (in %) on AssistantBench and FanoutQA for INFOGENT under the Interactive Visual Access setting.
+            </figcaption>
+          </figure>
+          Figure 5 illustrates how effective aggregator feedback (between steps 5 and 6 in the image) can improve answer coverage by appropriately directing the navigator.
+        </p>
+          <figure style="text-align: center;">
+            <img src="static/images/infogent_qualitative.png" alt="Infogent example." class="infogent_example"/>
+            <figcaption class="has-text-centered">
+              <b>Figure 5:</b> An illustrative example of INFOGENT in the Interactive Visual Access setting               for a query from AssistantBench. In steps 1→4, AG accurately the identifies the IPO year (2020) and searches for the management team from that year. In step 5, while ET correctly identifies Gina DiGioia, it incorrectly extrapolates that John Janedia joined in 2020, even
+              though his past affiliations were only mentioned up to that year. However, AG's feedback to "look for other members" improves the answer coverage by discovering Mike Berkley, whose name was not listed on Fubo's current web page, in an external news article (in step 7) noting his appointment as Chief Product Officer in 2020.
+            </figcaption>
+          </figure>
+        </p>
+  </div>
+</section>
+
+
+<!-- <section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full-width">
+        <h2 class="title is-3">Resources</h2>
+
+        <p style="color: red;">TODO: change the links!</p>
+
+        <p>
+          💻 <b>Code:</b> <a href="https://github.com/MikeWangWZHL/VDLM">VDLM Code</a>
+        </p>
+
+        <p>
+          🍉 <b>Demo (Jupyter Notebook):</b> <a href="https://github.com/MikeWangWZHL/VDLM/blob/main/demo.ipynb">VDLM Demo</a>
+        </p>
+
+        <p>
+          🤗 <b>Pretrained SVG-to-PVD Model:</b> <a href="https://huggingface.co/mikewang/PVD-160k-Mistral-7b">PVD-160k-Mistral-7b</a>
+        </p>
+        
+        <p>
+          🤗 <b>SVG-to-PVD Dataset:</b> <a href="https://huggingface.co/datasets/mikewang/PVD-160K">PVD-160K</a>
+        </p>
+  </div>
+</section> -->
+
+
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>
+      @article{reddy2024infogent,
+        title={Infogent: An Agent-Based Framework for Web Information Aggregation},
+        author={Reddy, Revanth Gangi and Mukherjee, Sagnik and Kim, Jeonghwan and Wang, Zhenhailong and Hakkani-Tur, Dilek and Ji, Heng},
+        journal={arXiv preprint arXiv:2410.19054},
+        year={2024}
+      }
+    </code></pre>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container">
+    <!-- <div class="content has-text-centered">
+      <a class="icon-link"
+      href="">
+      <i class="fas fa-file-pdf"></i>
+    </a>
+    <a class="icon-link" href="https://github.com/mikewangwzhl" class="external-link" disabled>
+      <i class="fab fa-github"></i>
+    </a>
+  </div> -->
+  <div class="content has-text-centered">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <!-- <p>
+            This website is licensed under a <a rel="license"
+                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p> -->
+          <p>
+            This website's template is borrowed from <a
+              href="https://github.com/nerfies/nerfies.github.io">nerfies</a>. We thank the authors for open-sourcing their code.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
