@@ -141,7 +141,7 @@
   <div class="container is-max-desktop">
     <div class="hero-body">
       <video id="teaser" autoplay muted controls playsinline loop height="100%">
-        <source src="./static/videos/vdlm_teaser_vid.mp4"
+        <source src="./static/videos/teaser_vid.mp4"
                 type="video/mp4">
       </video>
     </div>
@@ -179,11 +179,11 @@
       <div class="column is-full-width">
         <h2 class="title is-3">Method</h2>
           <!-- <video id="method" muted controls playsinline loop height="100%">
-            <source src="./static/videos/vdlm_method_vid_maze.mp4"
+            <source src="./static/videos/method_vid.mp4"
                     type="video/mp4">
           </video> -->
           <!-- <h2 class="subtitle has-text-centered">
-            VDLM-txt zero-shot inference example on 2×2 Maze Solving task with text-only LLM reasoner.
+            Method Video.
           </h2> -->
         <!-- <br> -->
         <!-- <br> -->
@@ -223,33 +223,6 @@
             When direct scraping is not feasible, NG  navigates the web through human-like browser interactions. Leveraging LMMs for web navigation, the Navigator is based on <a href="https://arxiv.org/abs/2401.01614">SeeAct</a>, a task-completion agent that uses screenshots and HTML elements to plan and execute actions. SeeAct generates natural language action descriptions and grounds them to relevant HTML elements and operations. We augment SeeAct with GO BACK and AGGREGATE actions (see Table 2.2) and modify the action generation to condition on feedback F from AG. Starting from a search engine homepage, NG uses actions like CLICK, TYPE, and PRESS ENTER to navigate. Upon finding relevant webpages, it invokes AGGREGATE to engage ET and AG. Based on feedback F, it may GO BACK to explore other options or initiate a new search with an updated query.
           </p>
         </div>
-        <!-- <h3 class="title is-4"> Information Aggregation Task</h3>
-        <div class="content has-text-justified">
-          <p>
-            a summary of the tasks
-          </p>
-        </div> -->
-        <!-- <h3 class="title is-4">Learning Alignment of SVG to Primal Visual Description with Language Models</h3> -->
-        <!-- <h3 class="title is-4">Infogent Core Components</h3>
-        <div class="content has-text-justified"> -->
-          <!-- <figure id="pvd_ontology_img">
-            <img src="static/images/pvd_ontology.png" alt="PVD ontology." class="pvd_ontology"/>
-            <figcaption><b>Figure 2:</b> Ontology of the PVD primitives.</figcaption>
-          </figure> -->
-          <!-- <p>
-            a summary of the core components...
-          </p> -->
-          <!-- <figure id="svg_to_pvd_model_img">
-            <img src="static/images/svg-to-pvd-model.png" alt="SVG-to-PVD model." class="svg_to_pvd_model"/>
-            <figcaption><b>Figure 3:</b> An example of the input and output of the SVG-to-PVD model.
-          </figure>
-          <p>
-            Since SVG is text-based, we can effectively learn a SVG-to-PVD model by fine-tuning a pretrained language model (<a href="https://huggingface.co/mistralai/Mistral-7B-v0.1">Mistral-7B-v0.1</a>). To obtain the training data, we develop a data generator leveraging <a href="https://pillow.readthedocs.io/en/stable/reference/ImageDraw.html">PIL.ImageDraw</a> and <a href="https://github.com/visioncortex/vtracer">VTracer</a>, which creates a large-scale ⟨SVG, PVD⟩ paired dataset without any human annotation. 
-            The <a href="https://huggingface.co/datasets/mikewang/PVD-160K">dataset</a> contains 160K instruction following instances on predicting PVD from SVG on randomly generated primitives. 
-            See <a href="#svg_to_pvd_model_img">Figure 3</a> above on an input/output example. 
-            
-            During inference, as shown in the <a href="#method">Maze Solving example video</a>, we first decompose the input image into single SVG paths and then individually feed them into the SVG-to-PVD model.
-          </p> -->
         </div>
 
   </div>
@@ -308,35 +281,6 @@
         </p>
   </div>
 </section>
-
-
-<!-- <section class="section">
-  <div class="container is-max-desktop">
-    <div class="columns is-centered">
-      <div class="column is-full-width">
-        <h2 class="title is-3">Resources</h2>
-
-        <p style="color: red;">TODO: change the links!</p>
-
-        <p>
-          💻 <b>Code:</b> <a href="https://github.com/MikeWangWZHL/VDLM">VDLM Code</a>
-        </p>
-
-        <p>
-          🍉 <b>Demo (Jupyter Notebook):</b> <a href="https://github.com/MikeWangWZHL/VDLM/blob/main/demo.ipynb">VDLM Demo</a>
-        </p>
-
-        <p>
-          🤗 <b>Pretrained SVG-to-PVD Model:</b> <a href="https://huggingface.co/mikewang/PVD-160k-Mistral-7b">PVD-160k-Mistral-7b</a>
-        </p>
-        
-        <p>
-          🤗 <b>SVG-to-PVD Dataset:</b> <a href="https://huggingface.co/datasets/mikewang/PVD-160K">PVD-160K</a>
-        </p>
-  </div>
-</section> -->
-
-
 
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
