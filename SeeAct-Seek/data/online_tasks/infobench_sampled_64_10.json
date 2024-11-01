@@ -1,0 +1,52 @@
+[
+    {
+        "confirmed_task": "Explain how advancements in virtual reality technology will revolutionize journalism and news reporting in one pagraph. Every sentence should only use future tense. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_126"
+    },
+    {
+        "confirmed_task": "Generate a list of 10 museums worldwide. This list should include at least one museum from each continent, excluding Antarctica, to ensure global coverage. For each museum, provide a concise description of what it offers and specify its exact location, including city and country. Make sure the information you provided is correct. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_141"
+    },
+    {
+        "confirmed_task": "Explain the basics of chemical bonding, including ionic, covalent, and metallic bonds. Illustrate each type with two specific examples, and organize your response into three distinct points, one for each bond type. Your explanation should be clear, concise, and accessible to someone without a background in chemistry. . ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_57"
+    },
+    {
+        "confirmed_task": "Please generate a list of 10 research papers published within the last 5 years (from 2023), focusing on the evaluation of pretrained language models. Present the list in APA citation style and arrange the papers in ascending chronological order. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_187"
+    },
+    {
+        "confirmed_task": "Generate twelve word clocks, each representing a unique time zone and featuring a different city. Distribute these clocks into two groups of six. The clocks in the first group should indicate the time using a 12-hour format, and the clocks in the second group should employ a 24-hour format. \n\nTo ensure geographical diversity, select at least one city from every continent, excluding Antarctica. Each clock should clearly display the city's name, the continent the city belongs to and the current date underneath. \n\nLastly, ensure that the displayed time and date for each city accurately reflect the real-world time differences between the various time zones. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_243"
+    },
+    {
+        "confirmed_task": "Please provide five unique first date night ideas, with each catering to different interests and budgets. Include an estimated cost for each idea, along with a brief description of the activity and why it might be appealing to different types of people. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_162"
+    },
+    {
+        "confirmed_task": "Discuss the impact of socialization on the development of an individual's identity, specifically focusing on the role played by family, peers, and institutions. Give three distinct examples to support your point, each reflecting the influence of one of the following: family, peers, or institutions. Please mark each of these examples with the keyword 'example' to highlight it. Ensure that your response does not exceed 400 words and that your explanation is both clear and logically structured. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_113"
+    },
+    {
+        "confirmed_task": "Provide a critique of Vincent van Gogh's 'Starry Night,' discussing its composition, colors, and techniques, and how they contribute to the painting's overall theme. Limit your response to 200-250 words, and conclude with a brief statement on the artwork's significance and its impact on the art world. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_11"
+    },
+    {
+        "confirmed_task": "Create a course syllabus for an introductory psychology course. The syllabus should include:\n\n1. Main Topics: Outline the core subjects to be covered during the course.\n2. Required Readings: Specify the mandatory reading materials for each of these main topics.\n3. Assessment Methods: Describe the methods for evaluating student performance.\n4. Grading Criteria: Define the grading system using a 100-point scale, where 100 represents the highest possible score. \n\nAdditionally, establish a separate grading scale with the letters A to E, where A represents the lowest performance and E represents the highest performance. Provide a clear conversion guide between these two grading scales, ensuring each score on the 100-point scale corresponds uniquely to a specific grade on the letter scale (A-E) and vice versa. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_82"
+    },
+    {
+        "confirmed_task": "Create a narrative-style biography for George Washington that is less than 500 words. The biography should focus on the influence of his relationship with either Martha Washington, Alexander Hamilton, or Thomas Jefferson on both his personal and professional life. Please structure the biography into three distinct sections: 'Childhood and Upbringing,' 'Revolutionary War Leadership,' and 'Presidency.' Make sure to use these exact phrases as headers to clearly divide the sections. Ensure all information presented is historically accurate. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_92"
+    }
+]

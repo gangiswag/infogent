@@ -1,0 +1,1269 @@
+[
+    {
+        "confirmed_task": "Which \"SmartLess\" episode does not include the names of the guests in the title?",
+        "website": "https://www.google.com/",
+        "task_id": "00505300c5e2055a81f13b097e70c6c17420807397476c173b64be2397963d59",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which wedding venues in Orange County offer an ocean view for the ceremony with seating for guests, and have a rating of at least 4.5 based on a minimum of 50 Google reviews? Consider only venues that function primarily as wedding venues, excluding venues such as clubs and museums.",
+        "website": "https://www.google.com/",
+        "task_id": "02f02d5fa279e6db52db4feeacf0e609c59a0b8942c42e6ef7bd250cc9ed6c82",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I live in Astoria, Queens, and would like to find the closest Greenmarket accessible by subway from the 30th Avenue station, that I can shop at on weekends. Which Greenmarket fits this criteria?",
+        "website": "https://www.google.com/",
+        "task_id": "03738b82119ccb19dafb08482073e72230eac9dc5795c343090513130c3826d5",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the earliest version of the Yoast plugin available on the WordPress plugins website?",
+        "website": "https://www.google.com/",
+        "task_id": "093801d638247024e59893033aa8761f45804796a16c91e3cf0209cf083ca13e",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which Class of 2024 valedictorians from the top four colleges and universities on the 2024 Best National University Rankings, plan to attend a school outside of the United States after graduation?",
+        "website": "https://www.google.com/",
+        "task_id": "09e4811ec2b99f402f990b4156e50d1406cd5357d9f6e53b5608ebe0054033c8",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which store nearest to 5 Brondesbury Road, Maida Vale, sell canned jackfruit?",
+        "website": "https://www.google.com/",
+        "task_id": "0a4b6a5b08ecc0c66441a1b753cf906ab19e161881780a1187a4cb1e4a498d2f",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "How many weeks were the three Beatles albums with the highest ranking in RollingStone magazine\u2019s 500 Greatest Albums of All Time on the Billboard 200 chart? (format the answer as a list of jsons, with the keys: \"album_name\", \u201cbillboard_200_weeks\u201d, \u201crollingstone_album_ranking\")",
+        "website": "https://www.google.com/",
+        "task_id": "0badf85df8ca5522b2c456ac0a49752ae19f866253d59f2994bcad0830a4220f",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I am a married professional baseball player who files a joint return with their spouse. I am living in Atlanta, Georgia, and make $200,000 a month. I was just traded to a New York baseball team, and my salary is set to increase by 30%. How much more will I earn annually after taxes, according to the Forbes tax calculator?",
+        "website": "https://www.google.com/",
+        "task_id": "0be81f1de07ab255d02536becd22bd030f6c5b9feb01a584eeeef8990c7acb54",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "If I land at Liberty International airport at 7:45 AM on a Saturday, and wish to take Amtrak to William H. Gray III station in Philadelphia, what are the departure times for the next two direct trains I can take?",
+        "website": "https://www.google.com/",
+        "task_id": "0cc9eaba778ea2e112069e36be0b613a6c854d875bcf827f342b487cfd74379b",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Of the USA leaders in the executive and legislative branches from both parties, who has the most followers on Twitter?",
+        "website": "https://www.google.com/",
+        "task_id": "0f017fe70543669ddadf17cb22b2acfd0146e20dd80766fb815df5d9b8ce35c4",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Between which consecutive months did MrBeast's YouTube channel experience the largest decline in view count in 2023?",
+        "website": "https://www.google.com/",
+        "task_id": "13bde87833425ea94d2d6f1975dd973d53ca0eaddcff2653e778f32c86b687e1",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which of the following stores sell mens cotton pants with high-rise for under 150$: Spier and Mackay or Suit Supply?",
+        "website": "https://www.google.com/",
+        "task_id": "1c11784ee137592a9b4a259caf0da749af5b983b7a2dbc817a3a9650ee01a7fd",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What was the increase in the number of users for the Kansas City Chiefs subreddit page during the 2021/22 NFL regular season?",
+        "website": "https://www.google.com/",
+        "task_id": "1d669a5aaef6fe91bfe53025073f4e022687bde4d3a97d6546f0b57f631f1af4",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What was the increase in the number of users for the Atlanta Braves subreddit page between opening day 2023 and the day after the All-Star Game that same year?",
+        "website": "https://www.google.com/",
+        "task_id": "1f6a23c598211fa0057378e045778b688378c3cbf22ac9deca7b5c392b29767c",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which game company, with a popular GOG Galaxy integration on GitHub (over 100 stars), has development offices in NYC?",
+        "website": "https://www.google.com/",
+        "task_id": "211ace94acd5df42b52ab308ab1d79c3dc81e41cb093cef185ed20f25e9f377a",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "In 2015, how many named lecturers at the top AI conference, according to the Google Scholar h-index, graduated from an Ivy League college?",
+        "website": "https://www.google.com/",
+        "task_id": "23af1c205e19bd90666ec0e78e3566c4358106f3a039d48044fa2fae2dfcd0ac",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "If I land at Luton at 4:15 AM on a Saturday and wish to take the National Express to Finchley Road, what are the departure times for the next two buses I can take?",
+        "website": "https://www.google.com/",
+        "task_id": "23c890f1596f32b5b372ee90217971d7884ade8ee4795c9de43844215a516342",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which cutters that worked with Edward Sexton at NUTTER'S currently manage Savile Row houses?",
+        "website": "https://www.google.com/",
+        "task_id": "253e2a8ed662a82223029f97259706fa4f892cb9cecc5b79ab0970679618e4d0",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which of the 2020 PhD Boston University Robotics Lab graduated continued to a post-doc position?",
+        "website": "https://www.google.com/",
+        "task_id": "295c401c9dd5fa1de8a967d2b96eb9c5507985185e0733637f53c2e9cf255e59",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "If I arrive by bus at Washington DC Union Station at 11:30 AM on a Friday and want to take a train to Charlottesville, VA, what is the departure times for the first train I can take?",
+        "website": "https://www.google.com/",
+        "task_id": "2987f2915a8642a0a85335c0ca7e5b4e35653aa2a353b020824087c84091a9ba",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which players also from Navojoa, Mexico played in Major League Baseball after \u201cFernandomania\u201d, the craze surrounding Los Angeles Dodgers\u2019 pitcher Fernando Valenzuela? (Format the answer as a list of jsons with the keys: \u201cfirst_season\", \"player\")",
+        "website": "https://www.google.com/",
+        "task_id": "2bedecc055920566a97e6f049dc9c722d7a8d46adff62bcb096904e7e3783c04",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Among the player or players that have won the NBA Defensive Player of the Year Award the most times between 2000-2020, how many minutes played did they average per game in each of their winning seasons? (Provide the answer as a list of jsons with the keys: \"player\", \"year\", \"minutes_played\")",
+        "website": "https://www.google.com/",
+        "task_id": "2f6a86fe1241c77ed3ea77056cf63868bb7f9dbe7794b36d62d9fa4d8c680328",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which mall closest to JFK has the following stores: T-Mobile, Foot Locker, Auntie Anne's, and Panda Express?",
+        "website": "https://www.google.com/",
+        "task_id": "3248292a781c4f58507d6b40d32f5110919582722fe6ed6ba97440fd59490a54",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "In which month in 2020 did ninja\u2019s Twitch stream experience the largest increase in followers?",
+        "website": "https://www.google.com/",
+        "task_id": "33d880072dc1f1f21b04a7c589056bad18ea97d8c929ee486b74f9fe5ed6620f",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Who are the three Jeopardy! College Championship winners who won the most prize money in other Jeopardy! tournaments, and how much money did they win overall? Please provide the answer as a list of JSONs with the keys 'winner' and 'prize_money (usd)'",
+        "website": "https://www.google.com/",
+        "task_id": "36bdda5550481760bf9280dbe06796126a015d96a792079b3c3efb24d2e03983",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "On which cruise ships can I take a 3-5 night river cruise in Europe that includes a port of call in France and allows me to pay with my Marriott Bonvoy points?",
+        "website": "https://www.google.com/",
+        "task_id": "37932ee7ec5102af355d8c5b8f94e64bb89e6089c2483676a1cfd98597a9adb5",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What was the official state-of-the-art F1 accuracy for HotpotQA in the full-wiki setting and NQ in the short-answer setting on July 2020? (Provide the answer as a list of jsons whose keys are \"dataset\" and \"F1 score\")",
+        "website": "https://www.google.com/",
+        "task_id": "3940b9ef19e15c72b9f833ad4121c789ae07bf2bdc49bc2197894cc7af6a43d2",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What was the increase in the number of Instagram followers for Cristiano Ronaldo during the 2022/23 Saudi League season?",
+        "website": "https://www.google.com/",
+        "task_id": "3a680dbb9b820d8875ec5cccd16d763ead31b621d3a58e551f9307baf50cef02",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which tour operator in Husavik offers evening whale watching tours (after 7 p.m.) for under 15,000 KR during the summer?",
+        "website": "https://www.google.com/",
+        "task_id": "3d2bd6aebe882442cada9dfe268743f17b6ca4e654d34b3a10a6c4828cba209d",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which arrondissement in Lyon has the most churches listed on TripAdvisor and what are they? (Provide the answer as a jsom with the keys \"arrondissement\" and \"churches\")",
+        "website": "https://www.google.com/",
+        "task_id": "3f54600c914123f29d029aabef69fceac3e609f8ed26c2d150736576ef177321",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "In The Ultimate Doom, how much faster are all the Episode 2 single-level UV max records combined compared with the single-segment UV max record of Episode 2?",
+        "website": "https://www.google.com/",
+        "task_id": "3f6829e2d43b95c897328c64ee4e6c0c313723bd6420a38e24bfd840cf79eaad",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which tour operator in Maui offers sunset whale watching tours for under $100USD?",
+        "website": "https://www.google.com/",
+        "task_id": "3f83f3527e48019c0b1596f7a1105c7b4fd2990441c3136a871767f0426167dc",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I am getting married and want to purchase a custom-made wedding dress in Barcelona. Which of the following shops has a lower maximum price for custom wedding dresses: L'Arca or Aleksandra Budnik Atelier?",
+        "website": "https://www.google.com/",
+        "task_id": "3fd3575287b5d561a223e201c82e1eefefeee5fdc02a0b181f54253183b4c729",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I am a married woman living in Austin, serving as the head of my household, and I earn $100,000 a month. I have recently received a job offer from an LA-based company, offering a 20% increase in compensation. How much more will I earn annually, after taxes, if I accept this offer?",
+        "website": "https://www.google.com/",
+        "task_id": "43cabfa874351f03a6b8e447d662d9f376acaf582d1d4199303ba58fe2cc03b8",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which Deli's in Bethpage, NY have a rating of at least 4.0 on Google reviews from over 100 reviewers and offer catering service?",
+        "website": "https://www.google.com/",
+        "task_id": "444b4f5736fb6f4b45acdc39c1fa4d95158523cad8a8b55ce2b38aad1bd93565",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "From the time the Andorran Social Democratic Party first entered the Andorran Parliament up to 2023, in which years was the party with the highest number of votes under the electoral threshold (7.14%) centre-right?",
+        "website": "https://www.google.com/",
+        "task_id": "4542278ae4ab7edb463ba6a449f7d2291b61a75a85a143d741e5fbe25ca27c38",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which James Bond movie has the largest difference between its Rotten Tomatoes audience score and Tomatometer score?",
+        "website": "https://www.google.com/",
+        "task_id": "49f1c6a49bd84673eb9de788ea1f0a9216b83ee0e1a050ab23f8ff599ca32fb1",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the rotten tomatoes score for the three Bourne movies with the highest IMDB ranking? (format the answer as a list of jsons, with the keys: \"movie_name\", \"imdb_score\", \"rotten_tomatoes_score\")",
+        "website": "https://www.google.com/",
+        "task_id": "4c30210ec132db6c5440d5c70e90c609123191ca7955dd9ae1442e105dd3a154",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which restaurant in Palermo Soho, Buenos Aires serves gluten-free burgers and also has a vegetarian option?",
+        "website": "https://www.google.com/",
+        "task_id": "4d07734efd01f15c99dc05ec4494b25583be6c58010091acd6ae36b83c31f993",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Who has more Instagram followers: all the Hemsworth brothers except Chris and Liam, or all the Lawrence brothers except Andrew?",
+        "website": "https://www.google.com/",
+        "task_id": "50fc9972c9c6648079b0d6faf13600524f25e597fc809d174c9648854b2dbf2b",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I want to fly from Bogota to Chicago with only one stop, not in USA, and no more than 8 hours flight time, what are possible connecting airports?",
+        "website": "https://www.google.com/",
+        "task_id": "51f052ecf1c129c98cce8736c9b9fc59e49e92ed4cc96c4669aad49b161322f5",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What were the highest winnings (Regular-Season play) of the all-time top 4 Jeopardy trivia masters? (Provide the answer as a list of jsons with the keys: \"jeopardy_contestant\" and \"money_won\")",
+        "website": "https://www.google.com/",
+        "task_id": "58d01ca60a4efe2bff799b05dc0b46d5efa63d3f404805fe589e4aec167a3726",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which 2024 autobiographical books were written by Booker Prize winners and recommended by Barnes & Noble?",
+        "website": "https://www.google.com/",
+        "task_id": "59a6501b90d8412de25f493dd9f8d1d20c8f26eb499c8d29a7ae6f0a03b72ae5",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I want to buy a baseball cap like the Chicago White Sox used in the early 1980s. My head measures 23.9 inches. What size should I buy and how much will it cost? (Assume no special rates. Format the answer as a json with the fields \"size\" and \"cost (usd)\").",
+        "website": "https://www.google.com/",
+        "task_id": "5ba9e8b81da502edc0c14326e136d3a9f07d1db0b0b4777858e587985bdadc8c",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which 2024 parenting books were written by psychologist PhDs and recommended by Amazon editors?",
+        "website": "https://www.google.com/",
+        "task_id": "60471053b55cf40a543c43836604e06a9cb945234336fca18b8e870de75ce465",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "In which hotels in England that have an indoor pool, a rating of 4.5 on Google Maps, and the option to charge an electric vehicle, can I pay with Hilton points?",
+        "website": "https://www.google.com/",
+        "task_id": "63e9716e42b94e69ca651c5d47bdfb39d5dcee02d69f75888726d53a04342cf7",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which of the top 5 node packages, based on the number of downloads, utilizes Morgan as its testing framework?",
+        "website": "https://www.google.com/",
+        "task_id": "66acc3396b14969006688548fa70e8ef9806b728c346d5651e83d73c0d29b71f",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the latest version of \u201crequests\u201d that supports Python 2?",
+        "website": "https://www.google.com/",
+        "task_id": "673d1fb3de30b88745818a3c6ea520b2d907eb5e3a9be1a3c702518f93ca2330",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which of the Total War games on Steam, released between 2015 and 2020, received positive reviews from at least 85% of the players?",
+        "website": "https://www.google.com/",
+        "task_id": "6bcc74f4efcbc88707db17396b85b335d66571568c8af5c7087296e9d5f19aa7",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Of all the 2023 papers citing Hochreiter and Schmidhuber's LSTM paper, which contain the word regeneration in the title?",
+        "website": "https://www.google.com/",
+        "task_id": "6bd706878a0924bda9acc9548aaf87ed824d828f74573ffc1450403e0cfeaa7a",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the rotten tomatoes score for the three Spiderman movies with the highest IMDB ranking? (format the answer as a list of jsons, with the keys: \"movie_name\", \"imdb_score\", \"rotten_tomatoes_score\")",
+        "website": "https://www.google.com/",
+        "task_id": "6d314f1ddcc63bead76d11776cf41afa6771f46a02ecbcb15df5134fa1dae4d7",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which PhD students advised by Standford NLP professors graduated at 2023?",
+        "website": "https://www.google.com/",
+        "task_id": "6d94b7d48a2ba111dc739a63de979a26f87e73120a427e42c06b06e46caf8370",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Among the players who have won the NBA Sixth Man of the Year award the most times, how many games did they start in each of their winning seasons? (Provide the answer as a list of jsons with the keys: \"player\", \"year\", \"games_started\")",
+        "website": "https://www.google.com/",
+        "task_id": "70d36d42a954465962d7fefd8c296cb71643102a05abb19b4b3d41302007d49a",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I have a 2-year-old daughter and live in Wallingford, Seattle. What are the tuition fees for a 9-5 daycare center? (Format answers as a list of jsons with the keys: \"daycare_center\" and \"cost_usd\")",
+        "website": "https://www.google.com/",
+        "task_id": "72321c1ada24009b2f8d59de25e7244a478789aa1e53644f9f708c7f963a3da6",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the RGB value of the red part of the old Ebay.com logo?",
+        "website": "https://www.google.com/",
+        "task_id": "75e6d569f9b7236ab603c588f07ce0b9e0026a652416e049be6e9eefcbe0d974",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I live in France and am taking a trip to the Florida Keys, USA. I want to know how much it would cost me to buy an Aqua Lung mask, snorkel, and fin set in France (either at a shop or by ordering online) or at a shop in the Keys, assuming there are no special sales. (Provide the answer as a list of JSON objects with the keys 'country' and 'price (EUR)'. Use a currency conversion rate of 1.08 between USD and EUR.)",
+        "website": "https://www.google.com/",
+        "task_id": "76256673b444a783821d6d61344a19bed49ab04bd3c5b6677ab0439896898314",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I want to fly from Seattle to Recife with only one stop, what are the IATA codes of the possible connecting airports?",
+        "website": "https://www.google.com/",
+        "task_id": "76387637c6194f5e1cc5a0dee312db9428c40bace01eab2f71320b1a85cb84cc",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What are some bakeries in Miami Shores, FL where I can make an order online on Sunday for cupcakes with birthday decorations to be delivered on Tuesday before noon?",
+        "website": "https://www.google.com/",
+        "task_id": "776c768209261a861576db65adecc9086fab01c7a8e473abf605af72f3bcabe7",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "From the 2000/01 to 2023/24 seasons, which Premier League players won the Golden Boot (scored the most goals in a single season) without being named Player of the Month during that season?",
+        "website": "https://www.google.com/",
+        "task_id": "7820b1bca5d280bced7ddb5fa86625f8703e117587b93dbebbef617b3b2cd3eb",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Who has more TikTok followers: all the Destiny\u2019s Child members excluding Beyonce, or all the One Direction members excluding Harry Styles?",
+        "website": "https://www.google.com/",
+        "task_id": "7c146b20313069f7f2bf4e6ac0c1dbcff5147c872fec2cf19ee6d2646fe00bf4",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What florists in Padiham, UK advertise that they are open at 9AM on a Wednesday?",
+        "website": "https://www.google.com/",
+        "task_id": "7f7e4dbf7f76346e7cbb5a65e6c88a6b5d513f08cf4d3b223bf3e1c75fa1eb61",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which rental car places within 10 miles of Larchmont, NY have at least a 4.5 rating on Google Maps, and officially accepts American Express contact-less payments?",
+        "website": "https://www.google.com/",
+        "task_id": "7f9db43f0d971dfd710b2246082e292e92edcadecbaf36699a78edf305d26cb9",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I have a 2-year-old son and live in Kirkland, Seattle.  I get out of work at 5PM every day. What are the names of all daycare centers with at least 25 years experience that close at 5:30 PM or later? (Format answers as a list of jsons with the keys: \"daycare_center\" and \"closing_time\")",
+        "website": "https://www.google.com/",
+        "task_id": "8793b8f5678d16282618f68ae9103f3061c9938a228e5a91d73f64541d35bf0e",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which malls in Missouri have all of the following stores: H&M, Urban Outfitters, Hollister, and Apple?",
+        "website": "https://www.google.com/",
+        "task_id": "87f591cfe2afe9d227a30af862eb358e2d03c2e735a31ec1c3bb8b782a34abc6",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "My 10-year-old son wants to take guitar lessons, and we live in the Mission in San Francisco. Where can I find a music school and how much are the weekly lesson fees? (Format answers as a list of jsons with the keys: \"music_school\" and \"cost_usd\". If there are multiple options for a school, provide the cheaper one.)",
+        "website": "https://www.google.com/",
+        "task_id": "8869b0e92052103b52e240f0e327ee76964d8ad8b24dc3f63fad803f6b491be3",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I want to buy an official jersey for Real Madrid with my name ont he back, the domestic league badge, the number 6. My measurements are 86 cm (chest), 68 cm (waist), and 94 cm (hips). What size should I buy and how much will it cost? (Format the answer as a json with the fields \"size\" and \"cost (usd)\").",
+        "website": "https://www.google.com/",
+        "task_id": "8a484653d13418c51be95443374468900f81587c3a64c45ce69dc41b93f1fa7a",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Since the year 1984, which NBA team and player has won the most championships and how many? (provide the answer as a dict with they keys \"winner\" and \"num_titles\")",
+        "website": "https://www.google.com/",
+        "task_id": "8b68fdf29a1fb5bc6426f32633720127908207bed38ea847768488f34bba7d01",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "After Benjamin Netanyahu, which member of the Knesset has the most followers on Twitter? You can limit your search to politicians who were head of parties in the 2022 elections.",
+        "website": "https://www.google.com/",
+        "task_id": "8cc61c493af8d1850d3d9e1dafd228a38092751221c016f1d4a80c8e0c203e7f",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the title of the paper discussing the genetics of blue eye color in cats that was published in 2024?",
+        "website": "https://www.google.com/",
+        "task_id": "8d5e7bd76c993d4ed11ce1e9f9430421f0f3b21ed85287e630af1916069a02b2",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which bars in Wallingford or Fremont, Seattle had a comic themed pinball machine during March 2024? (Provide the answer as a list of jsons with the keys: \"Bar name\", \"Neighborhood\", \"Machine name\")",
+        "website": "https://www.google.com/",
+        "task_id": "8dcaac8e280e3dccd9c46b0515e3a06fee6f4fb12629acace16b9d690d439124",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which outlets in Ontario have all of the following stores: Columbia, Lululemon, Ted Baker, and Michael Kors?",
+        "website": "https://www.google.com/",
+        "task_id": "91bdaec93e3062279545c24c00b7b7a86968f394e3314cd5c9ddf6cb9a1c3199",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Where is the closest indoor Chase ATM to Moscone Center in San Francisco?",
+        "website": "https://www.google.com/",
+        "task_id": "926c0629e6704ed354f6811d4b0f4696450ebad578d20af34f3fbead7319c33b",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What are the driving theme video games for more than 1 player in arcades located in Logan Square or West Loop in Chicago, present in May 2024?\" (Provide the answer as a list of jsons with the keys: \"Arcade name\", \"Neighborhood\", \"Video game name\")",
+        "website": "https://www.google.com/",
+        "task_id": "9288bf0fa0af3a4319215d3a7ada201e604955abaaab06b4a037129d8d3d0e74",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I want to buy an official jersey of the Atlanta Braves with my name on the back, and the number 7. My measurements are 40IN (chest), 32IN (waist), and 42IN (hips). What size should I buy and how much will it cost? (Format the answer as a json with the fields \"size\" and \"cost (usd)\").",
+        "website": "https://www.google.com/",
+        "task_id": "92bfc3abcf4734fbd629ea16f4981e865edd54408543405cefffdbcc6f39dce7",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which Savile Row Member Houses would it have been possible for Henry Jerome de Salis to have shopped at?",
+        "website": "https://www.google.com/",
+        "task_id": "96d3a0951e0d24a0ccc714e48b2e46ca0505b38d4cd1cf22e77c8717f9cf7461",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "How many quizzes has each of Sporcle's all-time top 5 trivia masters created? (Provide the answer as a list of jsons with the keys: \"trivia_master\" and \"quizzes_created\")",
+        "website": "https://www.google.com/",
+        "task_id": "970ed6d1930b0389dd99708c4068899281df1c41182fe998f5b67d057701ae38",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which affiliated faculty with Harvard University\u2019s Department of Stem Cell and Regenerative Biology do not have their email addresses listed on the HSCRB website but do have a link to their lab?",
+        "website": "https://www.google.com/",
+        "task_id": "9755e8f9a5ba24a7365c0bed2e27067c597c7bb3903dc917f10fad8529bbe012",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Of all the 2023 paper citing Hochreiter and Schmidhuber's LSTM paper, how many have the word \"RNN\" in the title?",
+        "website": "https://www.google.com/",
+        "task_id": "97aa789e49ed7f7b6499e39a5b46d0e41f3aa11758581d18f7a1e125c2065dca",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which restaurant in Parque de la 93, Bogota, offers organic food and also has vegan options?",
+        "website": "https://www.google.com/",
+        "task_id": "9e3ec4235b6c1051c566a0b766a59a6c1a4a373eb9be72910bed6ae3da4d74c2",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Where is the closest \"Ahuzot HaHof\" parking next to Dizengof Center in Tel Aviv?",
+        "website": "https://www.google.com/",
+        "task_id": "9e4fac4a33ca217f6b797428d5341a70d9d3b2621019e0268217ab2f056ccc79",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What are the nearest Primark stores to each other in London, outside of Soho, based on walking distance?",
+        "website": "https://www.google.com/",
+        "task_id": "9f08cc39bed76dd23662beca7184617425cb8a0c47ceccd0556e37fee4781f71",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I live at 1095 Capp Street, San Francisco. Today, I want to walk to at least two peaks or hills that are at least 300 feet tall to enjoy the view, while minimizing the amount of walking. Which hills should I visit?",
+        "website": "https://www.google.com/",
+        "task_id": "a174cc55d856ff9a5ff10c0b76685a7aea7d1b7a6f9e7abb87f8b75d9949efbc",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which restaurants in Buffalo, New York list gluten-free burgers on the menu options and are priced in the lowest price tier and have at least 15 reviews on findmeglutenfree.com?",
+        "website": "https://www.google.com/",
+        "task_id": "a207a5818db3c03bf9f1400b85428f8ad05a0fb7b227c6ef07393c5cd7f326be",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What florists in Bakewell, UK can I make an order online on Tuesday (11:30am) with a personalized note and be sure that it will arrive before Thursday?",
+        "website": "https://www.google.com/",
+        "task_id": "a39700b8c69fa7e30ec892de05945e8dda571259ca746c36729ee785087def3a",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which lists more of Patrick Haffner's publications, Semantic Scholar or Google Scholar?",
+        "website": "https://www.google.com/",
+        "task_id": "a4b1d901126ac3c788efde74b18afc9ee6966aa4da0c84c38ccab5a7ff42e6e4",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "How many of Anthony Fauci's 2020 papers are available on PubMed and PMC? (Provide the answer as a list of jsons with the keys \"archive\" and \"number_of_papers\")",
+        "website": "https://www.google.com/",
+        "task_id": "a52f55bdb417358d2fb250a7a030039f25897678df5bc96382dfbab2e18b3e6c",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Among Major League Baseball players with the longest streaks of consecutive Cy Young wins, who was a member of their league's All-Star team the most times during this streak?",
+        "website": "https://www.google.com/",
+        "task_id": "a57418553a8732d8fb2bc4030fb965d4685e7a22da843c3d0db15d64be4de4ef",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which arrondissement in Paris has the most Speakeasy bars?",
+        "website": "https://www.google.com/",
+        "task_id": "a691d6542027faa5c8039d3528e69a495f84d57e412702c6bfd09aef727bac1e",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I am a single man living in Miami earning $80,000 a year. I have recently received a job offer from a Chicago-based company, offering a 25% increase in compensation. How much more will I earn annually, after taxes, if I accept this offer (according to the Forbes tax calculator)?",
+        "website": "https://www.google.com/",
+        "task_id": "a6c33c56ccd59e637ab68d82ddc99edb22df2e032fdbd4e0c1e1b2cb31c8e610",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the highest amount of money MrBeast has ever included in the title of one of his videos, considering only titles that explicitly feature the \"$\" symbol?",
+        "website": "https://www.google.com/",
+        "task_id": "a80d8d1a8a045dff028941009335506c4a8077f4004b53087d5ef8686ddf2d3e",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which official Nina Conti content that is longer than 30 minutes (either a full show or an online series) is available on Youtube?",
+        "website": "https://www.google.com/",
+        "task_id": "aa50434ca5a1e320cdc3151a97043b16b00b2107fd20db47e0b6e156a21cf43f",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "In which year from 2017 to 2023 did ACL have the highest number of female keynote speakers?",
+        "website": "https://www.google.com/",
+        "task_id": "ab6f0eb1dd556e950503d145888f7d21eeefa22aa421f88f0ead8f422c6dbe85",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which lists more of Yann Lecun's publications, Semantic Scholar or Google Scholar?",
+        "website": "https://www.google.com/",
+        "task_id": "adfa9c6fd9601bda6e9250f0ebae684d3bc77d8fdace9638ffea55e137f9bf58",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which Primark store in London is closest to Hall Place and Gardens based on walking distance?",
+        "website": "https://www.google.com/",
+        "task_id": "b15021fcee8c19ed15e23866105379e08d21af2ab9901c235b352bbd51eea0ae",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What are the three most popular official Karlie Kloss cooking videos released before 2020 that focus on savory dishes?",
+        "website": "https://www.google.com/",
+        "task_id": "b233fa687d68f68c3778d70913ba037315e4800af8488df27dbb2335e1c88aa7",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which NBA player has the most points+blocks in a single season without having ever been on an NBA championship team?",
+        "website": "https://www.google.com/",
+        "task_id": "b2ee3c2204f67dc77ee4654004e5ceab813f212c7f542de660640383df096e0d",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the HEX code of the Google logo used for the death of Queen Elizabeth II?",
+        "website": "https://www.google.com/",
+        "task_id": "b5658515258cbecfe0f862fdf28e64b5152f6414aee2bb3d356ab648537c1c50",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which 4-star hotels within 1km of the Frankfurt airport have a room for 4 adults?",
+        "website": "https://www.google.com/",
+        "task_id": "b67e2e2d5d5a4587adf2ff46c272d26bd3671bd49a346cc9f4111bb6e0162e87",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I am visiting London soon and was looking into issuing a mens Savile Row bespoke suit. Which Savile Row tailors offer fully bespoke three-piece suits for less than 3500\u00a3?",
+        "website": "https://www.google.com/",
+        "task_id": "b81702f7d586a35dcd5dcb8de17cf4aefb26676ab95de013462c349e1bcb9557",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which of Simon Schama's history books are available in Spanish on Kindle?",
+        "website": "https://www.google.com/",
+        "task_id": "b95fc9d59f8c37f984abf5758b60f8c3638185897db4a4ce5ad34f68ef39faca",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What car rental agencies near Fishermans Wharf in San Francisco, CA, have electric cars to rent?",
+        "website": "https://www.google.com/",
+        "task_id": "ba529e08a377d308e7f739c2520f62f45d284d701ab94646e8212e93e0dcc8c4",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the nearest park to the Tel Aviv Museum of Art that has a dog park and a playground for children?",
+        "website": "https://www.google.com/",
+        "task_id": "bcb45d84d33f5867afa826d5aee94c6d42aa4a421877d7848006e892407eeef9",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "How many visits did Stack Overflow have in the calendar month before, during, and after the release of ChatGPT? (Provide the answer as a list of jsons with the keys \"month\" and \"monthly_visits\")",
+        "website": "https://www.google.com/",
+        "task_id": "c15ccf7b3de5e34a196167ad827905955d4ea961a7a1d67c98de7f4566037f71",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I want to go fishing in the Finger Lakes, NY. I am looking for a lake that has Atlantic salmon and a brewery very close by or right on the shore with lake views. Which lakes should I consider?",
+        "website": "https://www.google.com/",
+        "task_id": "c16027bfc0d580a4b3baa94e54daf80a5726e9bee0a7fd13aabc26e0b295abdd",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "How many players who did not come from colleges were drafted in the first two drafts after Linsanity? (Format the answer as a list of jsons with the keys: \"draft\", \"number_of_players\")",
+        "website": "https://www.google.com/",
+        "task_id": "c24495d0ec872218e4317ffe1e579f9dd7424f12966926f03a9c45a4769c1919",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which of the following stores have more Magic the Gathering products with a price tag above $500: Walmart or Target?",
+        "website": "https://www.google.com/",
+        "task_id": "c2f852f47ad2a4f1059c87f04262911d497d50b42fc17755ffe4c155baf8cdc2",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which of the players who won the American League Reliever of the Year award between 2014 and 2023 also played as a starting pitcher in their debut season? (Provide the answer as a list of jsons with the keys: \"pitcher\", \u201cteam\", \"games_started\")",
+        "website": "https://www.google.com/",
+        "task_id": "c68da637f66c9435d7b645297d004e7e655c1b1d8b750447f6a3e43379e5efb9",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Assuming I live in Paris and am planning a one-week fishing trip to Florida, will it be cheaper to buy a new Eat My Tackle's 50W 2-Speed Twin Drag Reel Blue Marlin Tournament Edition here (either at a shop or ordering online) or in Florida (from the official site), assuming there are no special sales?",
+        "website": "https://www.google.com/",
+        "task_id": "c6b119d6bbd30d8e3954e8e0a49a1f968502976a96634288a14378d31fe7c851",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "How many page views did the Centers for Disease Control and Prevention (cdc.gov) have in the calendar month before, during, and after the World Health Organization (WHO) declared COVID-19 a pandemic? (Provide the answer as a list of jsons with the keys \"month\" and \"monthly_views\")",
+        "website": "https://www.google.com/",
+        "task_id": "ce3e51789e74e09de03b77fac57c99a8b8d0abff4736ad57a56178836f8ef677",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which of the top 5 node packages, based on the number of downloads, utilizes Mocha as its testing framework?",
+        "website": "https://www.google.com/",
+        "task_id": "d0f910100493471e9b96462b788c2faae3b545a200ca86526dd52ef8cbafdff3",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which Rolling Stones concert videos can I watch on Amazon Prime Video content that are longer than 2 hours?",
+        "website": "https://www.google.com/",
+        "task_id": "d108631c8c89136fc6d00d10f2916e1e95e4bfd8c65497bacb597dbad0644127",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "From the time the Sweden Democrats first entered the Swedish Parliament up to 2023, in which years was the party with the highest number of votes under the 4% threshold left-wing?",
+        "website": "https://www.google.com/",
+        "task_id": "d5d57f4fd32a505e5392162dd359f9f6e319908538b0d17fe08a9e0f5ae3d51d",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Between 2018 and 2023, how many times was one of the top-3 AI conferences, according to the Google Scholar h-index, held in New Orleans?",
+        "website": "https://www.google.com/",
+        "task_id": "d60cca1cc5d9c44ac6d125b01cff46e98e75be54a61c26f28358b9a00c83a26c",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which restaurants in the Capitol Hill neighborhood take online dinner reservations for a party of 11?",
+        "website": "https://www.google.com/",
+        "task_id": "d8016940a88d4cbbdf271f6390c56a9b259559595db446ab4a5aef2c44c5a5d0",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which NBA player has the most blocks+steals in a single season without being selected to an all-defense team that season?",
+        "website": "https://www.google.com/",
+        "task_id": "d8727993c3e8368640d285f7588bd90ec21157b724e3b7524639f9102fde9fb9",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which company had an open-source LLM that scored higher on MMLU on December 1st 2023, Mistral or Meta?",
+        "website": "https://www.google.com/",
+        "task_id": "d8c701789b9c31445e71ebcdfc25e99e98ad43b3c2ad20fae4fc5c51e8eb7a3f",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the RGB value of the yellow part of the Monday.com logo?",
+        "website": "https://www.google.com/",
+        "task_id": "dadb74122ca1f4f2a706c299d53ad1305756c93245540367ba11c98b2198cdf0",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which bars in Tulsa, Oklahoma had a pinball machine theme based on a rock band or musician during March 2024? (Provide the answer as a list of jsons with the keys: \"Bar name\", \"Neighborhood\", \"Machine name\")",
+        "website": "https://www.google.com/",
+        "task_id": "e046e1ecb2d897b10b9355ed6519475acc1fdd27a3731f5e5f4cbc42e43ac1d1",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I want to hike near Marlborough, Connecticut and later attend a wrestling show at the XL Center in Hartford and plan to ride my bike there. What trail is closest to the XL Center with at least 3.5 rating on AllTrails?",
+        "website": "https://www.google.com/",
+        "task_id": "e22a10e8fa601d27733915fbecde35bcaa9555c68012f56540da0ad19278d331",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which senior researchers at Oxford University's AI vision lab have their personal email addresses available on their websites?",
+        "website": "https://www.google.com/",
+        "task_id": "e2ce46cea9c2cd0dd5ed0e6d7a1610ec68bf8c3e9006797416cf6baec19b98e4",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Since Larry Bird's retirement, which two Boston Celtics players have provided the most assists for the team? (Provide your answers as a list of jsons with the keys \"player\" and \"number_of_assists\")",
+        "website": "https://www.google.com/",
+        "task_id": "e57a78ec590a586ccb1c9d89189cd4df967286069b62d6057417549399d6b9f0",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which of L. Frank Baum\u2019s children\u2019s books are available as French audiobooks?",
+        "website": "https://www.google.com/",
+        "task_id": "e59613ccac51f917898f10fb0749b97a3e8d984901f28b6f894db9d910f02eef",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What was the last Tarantino film that Harvey Keitel was in?",
+        "website": "https://www.google.com/",
+        "task_id": "e6501ed8caf105247280c95a2333ffc0bde2a61a65309e69bef9bae8883258df",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which associate clinical professors in the department that oversees the Laboratory for Clinical Affective Neuroscience have their email addresses listed on the department's website?",
+        "website": "https://www.google.com/",
+        "task_id": "ebc09a58d9394084a8f0279d669d73aba3fbf7e8edbd6d386693ee6c5e81cca1",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the closest restaurant outside the San Francisco Zoo that serves lunch and has kids' options on the menu?",
+        "website": "https://www.google.com/",
+        "task_id": "ebcc923f8ae80c6de586a23b6404a535c588a448a2e7c03a0969fd8e8dfb8e2b",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which of Jeff Wheeler's books are available in German on Kindle?",
+        "website": "https://www.google.com/",
+        "task_id": "ecdc2383f4488a541abba98f96a3358690fca9c3efc2f0290e5d7c1ac1867503",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which of the first three seasons of South Park has the highest average IMDB episode ranking?",
+        "website": "https://www.google.com/",
+        "task_id": "ee192f50280bec36dfc5d55189fa387e5e132c10bdee78c667f663d5312cbda9",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which wedding venues in Netanya offer a view of the Mediterranean, have a rating of at least 4.5 on Google reviews from over 300 reviewers, feature an outdoor area for the reception, and are suitable for 150-250 guests?",
+        "website": "https://www.google.com/",
+        "task_id": "f042bfc06dd124cc7cc9afd2aa52ed833ebfa52c3bae3960a44b510205339d2a",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What are the nearest McDonald\u2019s restaurants to each other in San Francisco?",
+        "website": "https://www.google.com/",
+        "task_id": "f15306770885cb221cf7cd3ec70b9c2392c1203c5b27964d7fb89abc697f744a",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which restaurants in the Farmingdale, New York neighborhood take online dinner reservations for a party of 10 through Open Table?",
+        "website": "https://www.google.com/",
+        "task_id": "f16dd8c68dcc27ea386f49f8cbb6e46d1c9ede8a8c20b3416ddae1483eb38b09",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "I want to hike near Jerusalem, and am looking for a loop trail with a waterfall that is less than 5 km long (according to alltrails). What options do I have that also have a winery within a five minutes drive? (Provide the answer as a list of jsons with the keys \"trail\" and \"winery\")",
+        "website": "https://www.google.com/",
+        "task_id": "f2ad18f19a73373c045005eae481764f38c13e8f64cf0ed90b3397aceb58fefc",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which highly rated (9+ on Booking.com) 5-star hotels closest to Miami Airport have a room for 4 adults?",
+        "website": "https://www.google.com/",
+        "task_id": "f3fb20397a1201d3e58de4f53e38ffb4dedc090e3c342a6bd558b0a1cba614f5",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which store nearest to 5 Brondesbury Road, Maida Vale, sell canned sliced bamboo shoots?",
+        "website": "https://www.google.com/",
+        "task_id": "f4fc8f368e10632804fd5f9e2d2d0d506dba45cced9f95bd4bdaea114d230289",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which park is closest to the Rockefeller Archeological Museum and has a playground for children?",
+        "website": "https://www.google.com/",
+        "task_id": "f5661ee525eab51c375d0cff9e90f26c96aafd1d887e6b1ec5fb6b15cbd87fb3",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Who has more Instagram followers: all the Spice Girls except Victoria, or all the NSYNC members except Justin?",
+        "website": "https://www.google.com/",
+        "task_id": "f5c7873d18ea96a6238d634ba0ce7b1ea6f97f4051505a3ba90ce7f8a3576aa7",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "How many players were drafted right out of high school in the first two drafts after the Latrell Sprewell choking incident happened? (Format the answer as a list of jsons with the keys: \"draft\", \"number_of_players\")",
+        "website": "https://www.google.com/",
+        "task_id": "f67d32cf78da634d3768e756b35d764a1e3ff09fc112c908169a9da4a6f84f98",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Is it cheaper to buy the complete set of Harry Potter books or the complete set of Game of Thrones books in hardcover on Waterstones UK?",
+        "website": "https://www.google.com/",
+        "task_id": "f69d3a64ae8bedb2ef8f5de93f2d520e36cf1ee10a1f9b51e6124974069f2706",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which company had an open-source LLM that scored higher on TruthfulQA on May 1, 2024, Saltlux or Microsoft?",
+        "website": "https://www.google.com/",
+        "task_id": "fc690d6696aff2366deb4a1c06e47234194f0261e4d5cc612008d56a995b5beb",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which Rippaverse writers, up to but not including \"Yaira #1,\" have previously worked for the Big Two?",
+        "website": "https://www.google.com/",
+        "task_id": "fcf91c5116e20ee62b4e3f6048840b74656b561a0470efbe092f63b30cf1258b",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Find alleles for SNP rs312262906 used in the Hirisplex panel",
+        "website": "https://www.google.com/",
+        "task_id": "0424b13f1c22b6e47f4c78425cdbb39eb2bf047320d75cf25816565e0b41fd25",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which EU countries have the largest trade deficit in goods with China in relation to their total trade in 2023?",
+        "website": "https://www.google.com/",
+        "task_id": "044052ab125aa7ed35c4fb10696343579271406b0f65b4575392215f6ee3f641",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What articles has writing scholar, Mike Rose, written about issues with writing instruction at the university level? Provide all articles published up to May 2024.",
+        "website": "https://www.google.com/",
+        "task_id": "08ee947e090b200813e4bd343f2520bb7f00488c2dc445e884a50d98594ac862",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "On which Brussels KBR collection can I find Miche\u00e1l \u00d3 Cl\u00e9irigh's use of the verbal noun \"tochailt\"?",
+        "website": "https://www.google.com/",
+        "task_id": "0c354eb213bf907ac34070d6487bbe81f19b5e8c1a0f0734089cf6dc6f3d233d",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "How many archaeal and bacterial species were part of the first release of the Taxonomy Genome Database (GTDB)?",
+        "website": "https://www.google.com/",
+        "task_id": "101edfc8d8c9912af10e624f36c1a6936cd542c52bfab81efe739cdc9dff6e21",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Who was on the design team for the \"Emerald Screen Pergola\" project?",
+        "website": "https://www.google.com/",
+        "task_id": "1a0f1343f6e98b50b917d06e60afdaf9200ab74929b2972bf5212df2d5b15187",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "With which companies does Accor Hotels have partnerships to develop tools that measure their sustainability impact?",
+        "website": "https://www.google.com/",
+        "task_id": "1c19711ea4234efd73f43f659729d7dae8219200e6145886e2d24ed256ceb5c6",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Give the top two causes of death of a female aged between 19-49 living in the united kingdom between 2019 and 2020.",
+        "website": "https://www.google.com/",
+        "task_id": "35d9cdcde8a6ebe15a149b8243cde068677f2c3a15e9633b6ea14f71f7137dd0",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "How many papers about CRISPR/Cas9 can be found in 2023? Round up to the closest 1000.",
+        "website": "https://www.google.com/",
+        "task_id": "3b9b30d3d138413bd8f39eae7c6bcdf10cc09fe76c003c36ef7c00db90058995",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which countries in Asia can the Thalassoma pavo be found in?",
+        "website": "https://www.google.com/",
+        "task_id": "491baea240075e656d514bf13d8c626a9d0481c9ecf2aba65d0c5529dea147a3",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the CVSS score for the latest (until May 2024) critical vulnerability in the OpenSSL library?",
+        "website": "https://www.google.com/",
+        "task_id": "5a51e05719b356ab3597aa50e3d057eb67ef3530fd2092fac0eaabd4b343bea4",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Find the number of Supreme Court cases related to domestic violence in Slovenia from 1 May 2010 to 1 May 2024.",
+        "website": "https://www.google.com/",
+        "task_id": "5cf78b0b055bf7eeb908733cb0e55b358b1528474529a28f22157bf6679886c3",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Find the mean terminal elimination half-life of the drug \"Risperidone\" when administered as an intramuscular injection.",
+        "website": "https://www.google.com/",
+        "task_id": "6689e6704ab8ed0342f743ff39cde31b5f0a4e5c2b3bb2433297d4dc98f68740",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the sample loading capacity of the 3500xL and SeqStudio flex (Answer with a list of jsons with the keys \"machine\", \"capacity\")",
+        "website": "https://www.google.com/",
+        "task_id": "691fe10f8d4591afebc7b0e7a3deee0110228e963860190fdafe547c92016901",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "According to FlyBase, what human diseases are known to be associated with Drosophila melanogaster protein cheerio?",
+        "website": "https://www.google.com/",
+        "task_id": "6fe7c0ab1c913049f5df7a9f7d08b0c52aa64f6c6c4b7e072dec7430ca359f72",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What are the key updates to the \"variables\" feature in Figma announced in Dec 2023?",
+        "website": "https://www.google.com/",
+        "task_id": "79c3314323758e2993a66e3d7d96bafd3bdc4c8aca1d45331bf0af383d115cc0",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What was the core demand of aFRR capacity (in MW) in Austria on May 26th 2024?",
+        "website": "https://www.google.com/",
+        "task_id": "7ad7df047c75ac3a018164d324c9e3d2883a714e0717c971f1790d8342826ede",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the exact terminal half-life of the drug \"Lisinopril\"?",
+        "website": "https://www.google.com/",
+        "task_id": "8339e24137e11ee7f32860160a178fceed447a396340c0e78cca077342a2be67",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What poetic movement occurred during the reign of Henry VIII, in England, that included works by Abraham Cowley?",
+        "website": "https://www.google.com/",
+        "task_id": "85b57e54837272d56c15f08f96d94f1d9d20cc3c3865b0e61fcdad6f4ac64b99",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "When was the initial publication date of statutory KCSIE guidance?",
+        "website": "https://www.google.com/",
+        "task_id": "8905eaca3a6d15357a43fd6b865a86bf37f3b8d53a3beac8f72fe70d6d22cac9",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "How many casualties were in the earthquake in Patras in November 1883?",
+        "website": "https://www.google.com/",
+        "task_id": "8d0987af49f3c27e6ef32560bf1b15cbe1bcc7aef2e4a87aae6e4e023aed9b45",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What are the highest expressing human cell lines for the Enzyme Responsible for Lactose Degradation in E. coli?",
+        "website": "https://www.google.com/",
+        "task_id": "93561818306180f8698c6eb458b1c7caa83fbe70773ad53671558ec45c84876f",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the color code for the color Red Ochre on Le Corbusier?",
+        "website": "https://www.google.com/",
+        "task_id": "a5511d3db1c395d7afeef42673a3e879e23a15724d5b6f82ea09455802a15a77",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the CADD PHRED score for the c.862-10T>C mutation in the human retinoblastoma 1 gene according to Ensembl's Variant Effect Predictor tool?",
+        "website": "https://www.google.com/",
+        "task_id": "a81ef982012db796f00201a00e481095125d1c5f69e4ff42600d5fdd21f1f5f4",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Who created a tool to track tree cover using Landsat data?",
+        "website": "https://www.google.com/",
+        "task_id": "b2205067ed4642bd95a20615545208c02c2498f4abc1706b0f990db2bec322bf",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Based on the usage of b\u00faach\u00e1il in RIA MS C ii 2 f. 15r (15-16th) century, which century does b\u00faachaill start being used to mean 'boy'?",
+        "website": "https://www.google.com/",
+        "task_id": "be5c2371a2179ae4da25f29a1e1f1443094073e81e933ec558dd92cb62344d7b",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Obtain the reaction Q value of uranium (230).",
+        "website": "https://www.google.com/",
+        "task_id": "c5c3d63fe2f2ec781aa73cad6f0be6936ef24847fca348277757262f4eb55ab6",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What are the unit cell parameters of the mineral diopside under P = 2.32 GPa, where its V = 430.513 \u00c53?",
+        "website": "https://www.google.com/",
+        "task_id": "c8f38296bd5974997bd23297d0766b26b7f1d8c92a84ff42099e01c1775f431c",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "How many occurrences of Panthera onca have been recorded in Brazil until May 2024?",
+        "website": "https://www.google.com/",
+        "task_id": "cfc177dec35af2101aa17b0c324750cb72da7191e698403cceb7e5658eb34b5b",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Find primer sequences for D13S317 locus in Identifiler Plus multiplex PCR Kit.",
+        "website": "https://www.google.com/",
+        "task_id": "d10a3eeabe14c9f44b7a65225bcd8f505af96040fa53f846747a942208334993",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "How many publications did Prof Giovanna Mallucci publish in 2023?",
+        "website": "https://www.google.com/",
+        "task_id": "d3e4a7ef9d623ed2fafe06c1937a8bdc20d361c084820e151bd6c3dceebf5dcf",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Did India start the 2024 fiscal year off on track for hitting its fiscal deficit goal?",
+        "website": "https://www.google.com/",
+        "task_id": "d983c69d1a9b88ca3e4b9648ecb4506ae18bb185b761d064729645180dd96e60",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the detection significance of the source NGC 104 in the latest version of the Fermi catalog?",
+        "website": "https://www.google.com/",
+        "task_id": "dfac84ded5eac1752ebb305283798fee70bd8458cf1a65dbadebe2dfbdb4f5e2",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "How many articles does the EU directive on combating violence against women and domestic violence released in May 2024 have?",
+        "website": "https://www.google.com/",
+        "task_id": "e4a7fe2433ca2ace294e0bd52db091235ca7353332420203da1b695d07bc54fa",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Find the most cited paper on \"selfhood\" published between 2017-May 2024?",
+        "website": "https://www.google.com/",
+        "task_id": "e51bca317cc7dfd2ddb2c462704ff3e83330ecc51b67b0b2284e0ea88d792f10",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "How many United Nations member states have not ratified the Paris Agreement by Jan 2023?",
+        "website": "https://www.google.com/",
+        "task_id": "e54171e7ef59310ae782ad3555be003cdda83b1c07103c0da97b4d16a5559a1f",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the Sound Absorption Coefficient of a 1\u2033 panel of Acoustical Surfaces' Echo Eliminator\u2122 (product) for sounds of 125Hz?",
+        "website": "https://www.google.com/",
+        "task_id": "e7bcaaf48effbe281663cc76b4a72cbdbafc8dab9f25d8cc0cd746f8af1a5c77",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which part of the Local Government Act 1972 covers the filling of casual vacancies for parish councils?",
+        "website": "https://www.google.com/",
+        "task_id": "eefe2359b1f4cd0f3dae302db7a4fee6249b8dc5562ac5b80fd07339abfc6100",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which dataset in GBIF has the most sightings for Thalassoma Pavo?",
+        "website": "https://www.google.com/",
+        "task_id": "efa10fe10864192ed4b6fa9fd159b1291de7234d9eb72cd634441a167ab0577f",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Compute the average annual temperature in Arizona over 1994-2024 using historical climate data.",
+        "website": "https://www.google.com/",
+        "task_id": "f508fd3078da20d51d4ae2bc5899a0127cbbf6723af48aa69672d56b5c330b9c",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "Which papers published in 2023 have used RNNs to process extremely long texts (tens of thousands of tokens), and evaluated on long-text benchmarks instead of just evaluating perplexity?",
+        "website": "https://www.google.com/",
+        "task_id": "f94fa0a81aedde2ba39236a7f64988dbfa92a41a19f26f0caca81f55404de8ce",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    },
+    {
+        "confirmed_task": "What is the peak performance age for male athletes in decathlon?",
+        "website": "https://www.google.com/",
+        "task_id": "fa51a77611c4e13058d24aa0c693458380d5bc3b34d6cd2cdd074920e86fa45d",
+        "instruction": "Provide final answer without formatting",
+        "answer": null
+    }
+]
