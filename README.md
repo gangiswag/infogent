@@ -20,11 +20,67 @@ INFOGENT redefines web navigation for information-seeking tasks. It enables an a
 To set up INFOGENT in the interactive visual access setting, clone the repository and install the required dependencies:
 
 ```bash
-git clone <>
-cd infogent/interactive-visual-access
+git clone https://github.com/gangiswag/infogent.git
 pip install -r requirements.txt
 ```
-Run infogent in the interactive visual access setting with the following command
+
+## Direct-API Access
+
+The Direct-API Access makes use of OpenAI LLMs and Google Search via the SerperAPI. You can get your search key from [] and setup the environment variable as:
+
+```bash
+export OPENAI_API_KEY=<your OpenAI key here>
+export SERPER_API_KEY=<your search key here>
+```
+
+Before running on FanOutQA, you need to do the following to setup the fanoutqa evaluation library:
+```bash
+pip install "fanoutqa[eval]"
+python -m spacy download en_core_web_sm
+pip install "bleurt @ git+https://github.com/google-research/bleurt.git@master"
+wget https://storage.googleapis.com/bleurt-oss-21/BLEURT-20.zip
+unzip BLEURT-20.zip
+rm BLEURT-20.zip
+```
+
+To run the information aggregation process on FanOutQA:
+```bash
+cd direct-api-driven
+mkdir -p results
+python run_fanoutqa.py \
+    --navigator_model gpt-4o-mini \
+    --aggregator_model gpt-4o-mini \
+    --extractor_model gpt-4o-mini \
+    --inp_path data/fanoutqa-final-dev.json \
+    --out_path results/fanoutqa_dev_agg.json \
+    --log_path results/fanoutqa_dev_agg.log
+```
+
+Then, to generate the final answer and run the evaluation:
+```bash
+python fanoutqa_answer.py \
+    --answer_model gpt-4o-mini \
+    --data_path data/fanoutqa-final-dev.json \
+    --input_path results/fanoutqa_dev_agg.json \
+    --out_path results/fanoutqa_dev_answer.json \
+    --score_path results/fanoutqa_dev_score.json
+
+```
+
+To evaluate the closed book model, run:
+```bash
+python fanoutqa_answer.py \
+    --answer_model gpt-4o-mini --closed_book \
+    --data_path data/fanoutqa-final-dev.json \
+    --out_path results/fanoutqa_dev_closed_answer.json \
+    --score_path results/fanoutqa_dev_closed_score.json
+```
+
+
+
+## Interactive Visual Access
+
+To run INFOGENT:
 ```bash
 python seeact_seeker.py -c config/demo_mode.toml
 ```
