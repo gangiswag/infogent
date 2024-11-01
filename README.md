@@ -7,7 +7,7 @@ INFOGENT is a modular framework designed for web information aggregation. Unlike
 
 INFOGENT redefines web navigation for information-seeking tasks. It enables an agent to gather and aggregate information from various sources to answer complex queries. The framework supports both direct API-based access and interactive visual access modes, making it adaptable to a range of information retrieval scenarios. INFOGENT employs a modular, feedback-driven approach to information aggregation, making it suitable for complex queries requiring diverse sources.
 
-<img src="static/images/infogent_teaser.png"  width="65%" height="65%">
+<img src="static/images/infogent_teaser.png"  width="55%" height="55%">
 
 
 - **Navigator**: Conducts web search and identifies relevant websites.
