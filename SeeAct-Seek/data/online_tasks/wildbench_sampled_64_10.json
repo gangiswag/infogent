@@ -1,0 +1,27 @@
+[
+    {
+        "confirmed_task": "Write a current and up to date 2023 information of a constructive guide for my iceland travel guide on \"Iceland tourist visa requirements\" with humanlike style, non repetitive phrases and avoidance of unnatural sentences and randomness while explaining in details. Please prevent writing frequent listing/numbered format while generating the travel guide content. The user wants to write a current and up to date 2023 information of a constructive guide for Iceland travel focusing on 'Iceland tourist visa requirements' with a specific style request.",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__ac191f525d580fd98ddc0828e27543ed1"
+    },
+    {
+        "confirmed_task": "Please give me an overview of basic bicycle maintenance one can do at home from time to time . The user wants to learn about basic bicycle maintenance tasks that can be performed at home",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__9721ffcc323d2f3750e426ca808428901"
+    },
+    {
+        "confirmed_task": "Can you tell me about a policy in developing countries that was aimed at catering to women owned startups that can be implemented in pakistan. The user wants to learn about a policy in developing countries aimed at supporting women-owned startups for potential implementation in Pakistan",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__b96387f4a2a3a97b3d549fdd3a42ec931"
+    },
+    {
+        "confirmed_task": "Write a current and up to date information of a constructive guide for my Quebec travel guide on \u201cDo I need a visa to visit Quebec\" with humanlike style, non repetitive phrases and avoidance of unnatural sentences and randomness while explaining in details. Please prevent writing listing/numbered format while generating the travel guide content. The user wants to get updated and detailed information for a Quebec travel guide specifically regarding visa requirements, presented in a humanlike and engaging style without using a listing or numbered format.",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__d3b338ea10a6a6871900e0056c24224b1"
+    },
+    {
+        "confirmed_task": "Mediation in Uzbek Family Law and Interpersonal Conflicts\na. Utilizing mediation to address family-related disputes, including divorce, child custody, and alimony\nb. Promoting mediation in interpersonal disputes involving neighbors, colleagues, and friends\nc. Culturally sensitive mediation practices adapted to Uzbek social norms and traditions. please describe it article number which is you taken code and article. The user wants to explore how mediation is utilized in Uzbek family law and interpersonal conflicts, focusing on family-related disputes, mediation in disputes among neighbors, colleagues, and friends, and culturally sensitive mediation practices within Uzbek traditions.",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__ee2a9243210bd9c6c153725ae05fab401"
+    }
+]

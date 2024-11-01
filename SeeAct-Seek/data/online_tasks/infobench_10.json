@@ -1,0 +1,52 @@
+[
+    {
+        "confirmed_task": "Create a list of 10 conversation starters for a family dinner that encourage open communication and bonding between family members. Each conversation starter should be phrased as a question and be specific to family and relationships. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_165"
+    },
+    {
+        "confirmed_task": "Please provide five unique first date night ideas, with each catering to different interests and budgets. Include an estimated cost for each idea, along with a brief description of the activity and why it might be appealing to different types of people. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_162"
+    },
+    {
+        "confirmed_task": "Describe a landscape painting from three distinct layers: foreground, middle ground, and background. Include at least two types of trees, a body of water, and a mountain range. Use a limited color palette of no more than four colors to create harmony, and specify which natural elements correspond to each color. Additionally, provide a description of the textures and brushstrokes used to represent the different natural elements. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_10"
+    },
+    {
+        "confirmed_task": "Design a 30-minute workout routine for someone with limited time, focusing on exercises that target major muscle groups. The routine should include at least five different exercises, with the number of sets and repetitions specified for each one. Additionally, describe which major muscle groups are targeted by each exercise (notice that chest and legs must be included). ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_152"
+    },
+    {
+        "confirmed_task": "Create a list of 5 off-the-beaten-path travel destinations in the magical world of Harry Potter created by J.K. Rowling. Each destination should be accompanied by a brief description (50-75 words) explaining what makes it unique, what magical or enchanting activities are available. Make sure to emphasize the magical aspect and avoid real-world locations to fully immerse readers in the fictional universe. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_148"
+    },
+    {
+        "confirmed_task": "Write a brief fashion trend forecast for the upcoming season, focusing on women's fashion. Design two complete outfit concepts (including clothing, shoes, and handbags) for a female. Specify the color palette, style, and key design elements for each look, and explain how they align with the predicted trends. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_136"
+    },
+    {
+        "confirmed_task": "Suppose you are a school administrator and need to organize information about the 10 students in a class. Create a JSON document that includes the following details for each student: full name, gender, birth date in YYYY-MM-DD format, major, anticipated graduation year, student ID number, and contact information (email address and phone number). Assume that all students were born in the same year, and that their student IDs start with \"2023\" (representing the year they started at the school). ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_183"
+    },
+    {
+        "confirmed_task": "Provide a critique of Vincent van Gogh's 'Starry Night,' discussing its composition, colors, and techniques, and how they contribute to the painting's overall theme. Limit your response to 200-250 words, and conclude with a brief statement on the artwork's significance and its impact on the art world. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_11"
+    },
+    {
+        "confirmed_task": "Please generate a 7-day weather forecast for a specific city, real or fictitious. For each day, provide the following information:\n1.The expected high and low temperatures;\n2.The likelihood of precipitation and expected conditions (e.g. sunny, rainy, cloudy);\n3.Approximate sunrise and sunset times;\n4.A brief comment on the expected air quality. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_60"
+    },
+    {
+        "confirmed_task": "Create a comparison table featuring three primary energy sources utilized worldwide, concentrating on three distinct aspects related to sustainability. Ensure that the selected aspects are relevant and varied, offering a thorough understanding of the sustainability of each energy source. ",
+        "website": "https://www.google.com/",
+        "task_id": "infobench__domain_oriented_task_202"
+    }
+]

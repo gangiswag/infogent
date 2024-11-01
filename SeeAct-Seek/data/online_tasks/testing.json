@@ -1,0 +1,9 @@
+[
+    
+    {
+        "confirmed_task": "How many weeks were the three Beatles albums with the highest ranking in RollingStone magazine’s 500 Greatest Albums of All Time on the Billboard 200 chart? (format the answer as a list of jsons, with the keys: 'album_name', “billboard_200_weeks”, 'rollingstone_album_ranking')",
+        "website": "https://www.google.com/",
+        "task_id": "assistantbench_9",
+        "instruction": "Provide final answer without formatting"
+    }
+]

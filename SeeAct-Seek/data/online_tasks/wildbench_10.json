@@ -1,0 +1,52 @@
+[
+    {
+        "confirmed_task": "The best oils for the skin and the benefit of each one in details. The user wants to know about the best oils for the skin and their benefits, as well as the best anti-aging oils and cosmetics in detail",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__692845876592dce8bae7949fd1680eb72"
+    },
+    {
+        "confirmed_task": "Can you tell me about a policy in developing countries that was aimed at catering to women owned startups that can be implemented in pakistan. The user wants to learn about a policy in developing countries aimed at supporting women-owned startups for potential implementation in Pakistan",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__b96387f4a2a3a97b3d549fdd3a42ec931"
+    },
+    {
+        "confirmed_task": "provide a list of companies that help find the best residential electric home contracts. The user wants to find a list of companies that help find the best residential electric home contracts",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__8cea039fabd77b235a6e840e2b8645f81"
+    },
+    {
+        "confirmed_task": "List 100 twitter users to follow who offer advice on spirituality. The user wants to find 200 Twitter users who offer advice on spirituality",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__cd254f512b4177fc229fc0e3498fdb6b3"
+    },
+    {
+        "confirmed_task": "There are 5 people in our group. An Iranian, one Slovak, two Chinese and one from Turkey. We have a presentation in 7 days and the title is: \"What is asymmetrical conflicts, hybrid warfare and insurgency. IS the nature of war really changing?\". we can have resources from everywhere, from youtube videos to websites. please provide a complete example from asymmetrical conflicts  and resources for hybrid warfare. I need a complete resources. . The user wants to gather comprehensive resources on asymmetrical conflicts and hybrid warfare for a group presentation.",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__b579c16c1e2e6fc14ef5991f7f2b01e11"
+    },
+    {
+        "confirmed_task": "Describe the process for assessing progress both during and after the project. The user wants to describe the process for assessing progress both during and after the project",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__19d8929c9222729f0e0b1fcfe9ec08921"
+    },
+    {
+        "confirmed_task": "Write a current and up to date information of a constructive guide for my Florence travel guide on \"Is it safe in Florence at night?\" with humanlike style, non repetitive phrases and avoidance of unnatural sentences and randomness while explaining in details. Please prevent writing listing/numbered format while generating content on this travel guide. The user wants to write a current and up-to-date guide on the safety of Florence at night for a travel guide, with a specific request for a humanlike writing style and detailed explanations without using a listing or numbered format.",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__7369253f575d4352341eaee50cc2121c1"
+    },
+    {
+        "confirmed_task": "why is pharmacy law important to learn as a student pharmacist. The user wants to understand the importance of learning pharmacy law as a student pharmacist",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__1eff54b2886468691fe175d9d3824fc01"
+    },
+    {
+        "confirmed_task": "Mediation in Uzbek Family Law and Interpersonal Conflicts\na. Utilizing mediation to address family-related disputes, including divorce, child custody, and alimony\nb. Promoting mediation in interpersonal disputes involving neighbors, colleagues, and friends\nc. Culturally sensitive mediation practices adapted to Uzbek social norms and traditions. please describe it article number which is you taken code and article. The user wants to explore how mediation is utilized in Uzbek family law and interpersonal conflicts, focusing on family-related disputes, mediation in disputes among neighbors, colleagues, and friends, and culturally sensitive mediation practices within Uzbek traditions.",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__ee2a9243210bd9c6c153725ae05fab401"
+    },
+    {
+        "confirmed_task": "Enumerate and describe the best bodyweight exercises and their most effective variations. The user wants to know about the best bodyweight exercises and their most effective variations.",
+        "website": "https://www.google.com/",
+        "task_id": "widlbench__ae8e1db3bb32cc4ad36354d80a2eb1f31"
+    }
+]

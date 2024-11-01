@@ -1,0 +1,188 @@
+[
+    {
+        "confirmed_task": "Who are the nominees of the 2024 Taiwanese presidential election and what are their birth dates?",
+        "website": "https://www.google.com/",
+        "task_id": "a8144c2b180759f1",
+        "instruction": "Provide the answer as a list of jsons with the keys 'nominee' and 'birth_date'. Keep the the values as concise as possible. When possible, use Wikipedia to find the relevant information. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "What is the nominal GDP in US dollars of the top 5 countries or territories with the highest GDP (PPP) per capita, only including IMF members?",
+        "website": "https://www.google.com/",
+        "task_id": "9bf015e9abca6d73",
+        "instruction":  "Provide the answer as a list of jsons with the keys 'nominee' and 'birth_date'. Keep the the values as concise as possible. When possible, use Wikipedia to find the relevant information. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "What is the Gini index of the countries that have the world's 4 tallest buildings?",
+        "website": "https://www.google.com/",
+        "task_id": "27087ec0fb7299bc",
+        "instruction": "Provide the answer as a list of jsons with the keys 'county' and 'gini_index'. Keep the the values as concise as possible. When possible, use Wikipedia to find the relevant information. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers"
+    },
+    {
+        "confirmed_task": "Who are the 5 longest-reigning monarchs and who were their fathers?",
+        "website": "https://www.google.com/",
+        "task_id": "ffb27afd2b521841",
+        "instruction": "Provide the answer as a list of jsons with the keys 'monarch' and 'monarch_father'. Keep the the values as concise as possible. When possible, use Wikipedia to find the relevant information. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "From which countries do the people who completed an EGOT over a span greater than 40 years come from?",
+        "website": "https://www.google.com/",
+        "task_id": "585ead607ef66fb1",
+        "instruction": "Including honorary and special awards. Provide the answer as a list of jsons with the keys 'winner' and 'country'. Keep the the values as concise as possible. When possible, use Wikipedia to find the relevant information. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "What is the GDP in USD of the four largest provinces in China by area?",
+        "website": "https://www.google.com/",
+        "task_id": "5898eefba47441f7",
+        "instruction": "Provide the answer as a list of jsons with the keys 'province' and 'gdp_in_billions'. When possible, use Wikipedia to find the relevant information. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers"
+    },
+    {
+        "confirmed_task": "What is the page count for each of the books in the five largest book deals?",
+        "website": "https://www.google.com/",
+        "task_id": "3cf6c1c1972eda92",
+        "instruction": "Provide the answer as a list of jsons with the keys 'book' and 'page_count'. Keep the the values as concise as possible. When possible, use Wikipedia to find the relevant information. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers"
+    },
+    {
+        "confirmed_task": "Who are the founders of the five largest companies by revenue in the United Stated in 2023?",
+        "website": "https://www.google.com/",
+        "task_id": "99b2c27ef3524e10",
+        "instruction": "Provide the answer as a list of jsons with the keys 'company' and 'founders'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "What is the Human Development Index ranking of NATO member states that joined NATO after 2005?",
+        "website": "https://www.google.com/",
+        "task_id": "d74222cba26f3a21",
+        "instruction": "Provide the answer as a list of jsons with the keys 'country' and 'rank'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "Who were the founders of the 5 most valuable brands according to Kantar?",
+        "website": "https://www.google.com/",
+        "task_id": "11f79563a6d1f4fa",
+        "instruction": "Provide the answer as a list of jsons with the keys 'brand' and 'founders'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "Who is the General Manager for each of the four teams that won the world series most recently?",
+        "website": "https://www.google.com/",
+        "task_id": "182b4a71e4ada225",
+        "instruction": "Provide the answer as a list of jsons with the keys 'team' and 'general_manager'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "Of the countries with a head of state assuming office prior to 2000, which are the five with the largest GDP per capita?",
+        "website": "https://www.google.com/",
+        "task_id": "c91cb8efeedea700",
+        "instruction": "Provide the answer as a list of jsons with the keys 'country' and 'gdp_per_capita'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "Which universities did the female senators appointed in 2020 and onwards attend for their bachelor's degrees?",
+        "website": "https://www.google.com/",
+        "task_id": "5e660d80b1608a8a",
+        "instruction": "Provide the answer as a list of jsons with the keys 'senator' and 'school'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "What are the geographical coordinates of the five oldest extant buildings in the world?",
+        "website": "https://www.google.com/",
+        "task_id": "40db8922af802a1d",
+        "instruction": "Provide the answer as a list of jsons with the keys 'building' and 'coordinates_in_dms'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "Who are the protagonists of the top five Studio Ghibli movies with the highest Rotten Tomatoes ratings?",
+        "website": "https://www.google.com/",
+        "task_id": "fbb8517ce418b23c",
+        "instruction": "Provide the answer as a list of jsons with the keys 'movie' and 'protagonist'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers"
+    },
+    {
+        "confirmed_task": "What are the 4 most expensive elements and in what years were they discovered?",
+        "website": "https://www.google.com/",
+        "task_id": "e082a9732cc2a366",
+        "instruction": "Provide the answer as a list of jsons with the keys 'element' and 'discovery_year'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "What are the years of birth of the authors of the top 5 best-selling books in history?",
+        "website": "https://www.google.com/",
+        "task_id": "00065f204bddb94d",
+        "instruction": "Provide the answer as a list of jsons with the keys 'author' and 'year_of_birth'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "In what year did the CEOs of each of the top 5 global companies by revenue begin their term as CEO?",
+        "website": "https://www.google.com/",
+        "task_id": "16407610512d6677",
+        "instruction": "Provide the answer as a list of jsons with the keys 'company', 'ceo_name', and 'ceo_start_year'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "What is the family for each type of forced bulb?",
+        "website": "https://www.google.com/",
+        "task_id": "b857dc3ac7ad967e",
+        "instruction": "Provide the answer as a list of jsons with the keys 'genus', and 'family'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers"
+    },
+    {
+        "confirmed_task": "Who were the first five provosts of the University of Pennsylvania (including any repetitions), and where were they born?",
+        "website": "https://www.google.com/",
+        "task_id": "8eb84e291eb8c01c",
+        "instruction": "Provide the answer as a list of jsons with the keys 'provost', and 'place_of_birth'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "Which members of the Sidemen have their own Wikipedia pages and where did they attend school?",
+        "website": "https://www.google.com/",
+        "task_id": "03156f229dd08e0c",
+        "instruction": "Provide the answer as a list of jsons with the keys 'member', and 'school'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers"
+    },
+    {
+        "confirmed_task": "List the venues for the last five Ed Sheeran concerts and their estimated construction costs in dollars.",
+        "website": "https://www.google.com/",
+        "task_id": "e635c39658e9e75b",
+        "instruction": "Provide the answer as a list of jsons with the keys 'venue', and 'cost_in_billions_usd'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers"
+    },
+    {
+        "confirmed_task": "What five categories were added in the 65th Annual Grammy Awards and who was the winner for each category?",
+        "website": "https://www.google.com/",
+        "task_id": "4f6a9d771a7df888",
+        "instruction": "Provide the answer as a list of jsons with the keys 'category' and 'winner'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers"
+    },
+    {
+        "confirmed_task": "How old are the Japanese voice actors for the second year students in Tokyo Prefectural Jujutsu High School in the anime Jujutsu Kaisen?",
+        "website": "https://www.google.com/",
+        "task_id": "ccf5ad3c45eabe40",
+        "instruction": "Provide the answer as a list of jsons with the keys 'voice_actor' and 'age'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers"
+    },
+    {
+        "confirmed_task": "Who were the directors of movies that grossed over $700 million in 2023, and when did they direct their first movie?",
+        "website": "https://www.google.com/",
+        "task_id": "870881b3ef7e2866",
+        "instruction": "Provide the answer as a list of jsons with the keys 'director' and 'year_of_first_directed_movie'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "What is the size in square kilometers of the territories of the top 5 richest countries with the highest GDP per capita?",
+        "website": "https://www.google.com/",
+        "task_id": "e99050b7d48c7145",
+        "instruction": "Provide the answer as a list of jsons with the keys 'territory' and 'size_in_square_kilometers'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers"
+    },
+    {
+        "confirmed_task": "What is the endowment amount in billions of dollars of the top 5 US universities in 2023?",
+        "website": "https://www.google.com/",
+        "task_id": "bb7e51ab1dac443c",
+        "instruction": "Provide the answer as a list of jsons with the keys 'university' and 'endowment_in_billions_of_usd'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "Who are the current Vice Premiers of the Chinese State Council and what are their birth months?",
+        "website": "https://www.google.com/",
+        "task_id": "39de0ca74b8ac3f6",
+        "instruction": "Provide the answer as a list of jsons with the keys 'vice_premier' and 'birth_month'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers"
+    },
+    {
+        "confirmed_task": "Which banks are the top five largest banks in the world by market capitalization and what are their website link addresses?",
+        "website": "https://www.google.com/",
+        "task_id": "9fbd3a09aab4c8a1",
+        "instruction": "Provide the answer as a list of jsons with the keys 'bank' and 'website'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers"
+    },
+    {
+        "confirmed_task": "List the top 5 fastest animals and their species.",
+        "website": "https://www.google.com/",
+        "task_id": "0502dd01fd5bd124",
+        "instruction": "Provide the answer as a list of jsons with the keys 'animal' and 'biological_name'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    },
+    {
+        "confirmed_task": "What was the per capita GDP in US dollars in the four continents with the highest GDP in 2022?",
+        "website": "https://www.google.com/",
+        "task_id": "30485427b5578fcd",
+        "instruction": "Provide the answer as a list of jsons with the keys 'continent' and 'gdp_per_capita_in_usd'. Keep the the values as concise as possible. To make sure we will be able to parse the answer, do not generate any prefix, e.g. ,''json'', before the answers."
+    }
+]
