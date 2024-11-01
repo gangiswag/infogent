@@ -25,5 +25,5 @@ pip install -r requirements.txt
 ```
 Run infogent in the interactive visual access setting with the following command
 ```bash
-python seeact_seeker.py -c config/demo_mode_seeact_seeker.toml
+python seeact_seeker.py -c config/demo_mode.toml
 ```
