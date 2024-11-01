@@ -20,7 +20,7 @@ To set up INFOGENT in the interactive visual access setting, clone the repositor
 
 ```bash
 git clone <>
-cd infogent/SeeAct-Seek
+cd infogent/interactive-visual-access
 pip install -r requirements.txt
 ```
 Run infogent in the interactive visual access setting with the following command
