@@ -85,7 +85,7 @@ To run INFOGENT:
 python seeact_seeker.py -c config/demo_mode.toml
 ```
 
-## Installation
+## Citation
 
 
 If you found this repo useful for your work, please consider citing our paper:
