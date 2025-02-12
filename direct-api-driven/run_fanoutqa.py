@@ -147,8 +147,7 @@ class BFSAgent:
         llm = ChatOpenAI(model=self.EXTRACTOR_MODEL, max_tokens=2000, temperature=0)
         structured_llm = llm.with_structured_output(method="json_mode", include_raw=True)
         with get_openai_callback() as cb:
-            response = structured_llm.invoke(messages)  
-            print(response)      
+            response = structured_llm.invoke(messages)        
         self.extractor_cost += float(cb.total_cost)
         self.extractor_time += time.time() - extract_start
 
