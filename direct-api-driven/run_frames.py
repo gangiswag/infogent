@@ -43,13 +43,6 @@ class BFSAgent:
         self.num_iterations = args.num_iterations
         self.num_to_aggregate = args.num_to_aggregate
         self.timeout = 10
-
-        self.wikipedia = httpx.Client(
-            base_url="https://en.wikipedia.org/w/api.php",
-            headers={"User-Agent": USER_AGENT},
-            follow_redirects=True,
-            timeout=30,
-        )
         self.wiki_errors = list()
 
         self.aggregated_data = list()
