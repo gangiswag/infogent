@@ -11,3 +11,10 @@ protobuf
 BeautifulSoup4
 toml
 aioconsole
+langchain_community
+langchain_openai
+langchain_anthropic
+langchain_google_genai
+langchain_experimental
+faiss-cpu
+markdownify
