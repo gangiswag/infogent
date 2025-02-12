@@ -33,6 +33,8 @@ export OPENAI_API_KEY=<your OpenAI key here>
 export SERPER_API_KEY=<your search key here>
 ```
 
+### Evaluation on FanOutQA
+
 Before running on FanOutQA, you need to do the following to setup the fanoutqa evaluation library:
 ```bash
 pip install "fanoutqa[eval]"
@@ -76,7 +78,40 @@ python fanoutqa_answer.py \
     --score_path results/fanoutqa_dev_closed_score.json
 ```
 
+### Evaluation on Frames
 
+To run the information aggregation process on FanOutQA:
+```bash
+cd direct-api-driven
+mkdir -p results
+python run_frames.py \
+    --navigator_model gpt-4o-mini \
+    --aggregator_model gpt-4o-mini \
+    --extractor_model gpt-4o-mini \
+    --inp_path data/frames_test.tsv \
+    --out_path results/frames_test.json \
+    --log_path results/frames_test.log
+```
+
+Then, to generate the final answer and run the evaluation:
+```bash
+python frames_answer.py \
+    --answer_model gpt-4o-mini \
+    --data_path data/frames_test.tsv \
+    --input_path results/frames_test.json \
+    --out_path results/frames_test_answer.json \
+    --score_path results/frames_test_score.json
+
+```
+
+To evaluate the closed book model, run:
+```bash
+python frames_answer.py \
+    --answer_model gpt-4o-mini --closed_book \
+    --data_path data/frames_test.tsv \
+    --out_path results/fanoutqa_test_closed_answer.json \
+    --score_path results/fanoutqa_test_closed_score.json
+```
 
 ## Interactive Visual Access
 
