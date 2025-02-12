@@ -45,7 +45,7 @@ unzip BLEURT-20.zip
 rm BLEURT-20.zip
 ```
 
-To run the information aggregation process on FanOutQA:
+To run the information aggregation process on FanOutQA Dataset:
 ```bash
 cd direct-api-driven
 mkdir -p results
@@ -80,7 +80,7 @@ python fanoutqa_answer.py \
 
 ### Evaluation on Frames
 
-To run the information aggregation process on FanOutQA:
+To run the information aggregation process on Frames Dataset:
 ```bash
 cd direct-api-driven
 mkdir -p results
