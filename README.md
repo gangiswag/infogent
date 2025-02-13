@@ -119,7 +119,26 @@ To run INFOGENT:
 ```bash
 python seeact_seeker.py -c config/demo_mode.toml
 ```
+in demo_model.toml, change the task_file_path argument to assistantbench_dev.json, assistantbench_test.json or fanoutqa.json to run with the dev/test split of assistantbench or with fanoutqa.
 
+
+To run eval, first
+```bash
+cd assistantbench_evaluator
+python aggregate_infogent_results.py
+```
+set the parent_dir in aggregate_infogent_results.py to the directory containing results in the previous step. This will restructure the model responses.
+
+next for fanoutqa, run
+```bash
+python evaluate_fanoutqa.py
+```
+and for assistantbench, run
+```bash
+python evaluate_assistantbench.py
+```
+
+for both evaluation scripts, make sure to set the prediction_file_path parameter to the output fine of the previous step
 ## Citation
 
 
