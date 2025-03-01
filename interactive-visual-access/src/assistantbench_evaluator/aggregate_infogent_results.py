@@ -1,7 +1,14 @@
 import os
 import json
+import argparse
 
-parent_dir = ''
+# Load the gold data (this will remain constant)
+parser = argparse.ArgumentParser(description='Load a JSON file containing gold answers and task IDs.')
+parser.add_argument('--parent_dir', type=str, required=True, help='Path to the JSON file')
+
+args = parser.parse_args()
+
+parent_dir = args.parent_dir
 
 aggregated_data = []
 

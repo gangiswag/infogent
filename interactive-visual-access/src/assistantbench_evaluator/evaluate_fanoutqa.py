@@ -3,10 +3,18 @@ from evaluate_utils.evaluate_strings import evaluate_strings
 from evaluation_evaluator import question_scorer
 import json
 import numpy as np
+import argparse
 
 # Load the gold data (this will remain constant)
-with open('/home/sagnikm3/infogent/interactive-visual-access/src/assistantbench_evaluator/fanoutqa/fanoutqa_gold.json', 'r') as f1:
-    gold_data = json.load(f1)  # Contains the 'gold_answer' and 'task_id'
+parser = argparse.ArgumentParser(description='Load a JSON file containing gold answers and task IDs.')
+parser.add_argument('--gold_file', type=str, required=True, help='Path to the JSON file')
+parser.add_argument('--pred_file', type=str, required=True, help='Path to the JSON file')
+
+args = parser.parse_args()
+
+with open(args.gold_file, 'r') as f1:
+    gold_data = json.load(f1)  
+
 
 gold_dict = {entry['task_id']: entry['gold_answer'] for entry in gold_data}
 
@@ -38,8 +46,7 @@ def evaluate_predictions(prediction_file_path):
     return accuracies, np.mean(np.array(accuracies))
 
 # Example usage
-prediction_file_path = '/home/sagnikm3/infogent/interactive-visual-access/src/assistantbench_evaluator/fanoutqa/fanoutqa_gpt4turbo.json'
-accuracies, mean_accuracy = evaluate_predictions(prediction_file_path)
+accuracies, mean_accuracy = evaluate_predictions(args.pred_file)
 print(accuracies)
 print(mean_accuracy)
 
