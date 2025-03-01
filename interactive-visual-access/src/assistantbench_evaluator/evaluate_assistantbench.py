@@ -3,9 +3,17 @@ from evaluate_utils.evaluate_strings import evaluate_strings
 from evaluation_evaluator import question_scorer
 import json
 import numpy as np
+import argparse
 
 # Load the gold data (this will remain constant)
-with open('/home/sagnikm3/infogent/interactive-visual-access/src/assistantbench_evaluator/assistantbench_dev/assistantbench_gold.json', 'r') as f1:
+parser = argparse.ArgumentParser(description='Load a JSON file containing gold answers and task IDs.')
+parser.add_argument('--gold_file', type=str, required=True, help='Path to the JSON file')
+parser.add_argument('--pred_file', type=str, required=True, help='Path to the JSON file')
+
+args = parser.parse_args()
+
+# Load the gold data (this will remain constant)
+with open(args.gold_file, 'r') as f1:
     gold_data = json.load(f1)  # Contains the 'gold_answer' and 'task_id'
 
 gold_dict = {entry['task_id']: entry['answer'] for entry in gold_data}
@@ -34,7 +42,6 @@ def evaluate_predictions(prediction_file_path):
             entry['gold'] = gold
             entry['accuracy'] = accuracy
 
-            print(task_id, accuracy, predictions, gold)
             accuracies.append(accuracy)
 
     # Handle cases where some tasks are missing predictions
@@ -43,7 +50,6 @@ def evaluate_predictions(prediction_file_path):
     return accuracies, np.mean(np.array(accuracies))
 
 # Example usage
-prediction_file_path = '/home/sagnikm3/infogent/interactive-visual-access/src/assistantbench_evaluator/assistantbench_dev/infogent_gpt4o.json'
+prediction_file_path = args.pred_file
 accuracies, mean_accuracy = evaluate_predictions(prediction_file_path)
-print(accuracies)
 print(mean_accuracy)
