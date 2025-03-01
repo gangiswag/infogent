@@ -125,18 +125,20 @@ in demo_model.toml, change the task_file_path argument to assistantbench_dev.jso
 To run eval, first
 ```bash
 cd assistantbench_evaluator
-python aggregate_infogent_results.py
+python aggregate_infogent_results.py --parent_dir <PATH TO PARENT DIRECTORY CONTAINING RESULTS>
+
 ```
 set the parent_dir in aggregate_infogent_results.py to the directory containing results in the previous step. This will restructure the model responses.
 
 next for fanoutqa, run
 ```bash
-python evaluate_fanoutqa.py
+python evaluate_fanoutqa.py --gold_file infogent/interactive-visual-access/src/assistantbench_evaluator/fanoutqa/fanoutqa_gold.json  --pred_file <PATH TO PREDICTION FILES GENERATED FROM THE PREVIOUS COMMAND>
 ```
 and for assistantbench, run
 ```bash
-python evaluate_assistantbench.py
+python evaluate_assistantbench.py --gold_file infogent/interactive-visual-access/src/assistantbench_evaluator/assistantbench_dev/assistantbench_gold.json --pred_file <PATH TO PREDICTION FILES GENERATED FROM THE PREVIOUS COMMAND>
 ```
+
 
 for both evaluation scripts, make sure to set the prediction_file_path parameter to the output fine of the previous step
 ## Citation
